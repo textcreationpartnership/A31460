@@ -1,0 +1,1399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tablet of Cebes the Theban philosopher, or, A true emblem of human life with an additional treatise concerning tranquillity of mind / written by Hipparchus and translated by Robert Warren.</title>
+            <title>Tabula. English. 1699</title>
+            <author>Cebes, of Thebes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 97 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31460</idno>
+            <idno type="STC">Wing C1653A</idno>
+            <idno type="STC">ESTC R35480</idno>
+            <idno type="EEBO-CITATION">15345208</idno>
+            <idno type="OCLC">ocm 15345208</idno>
+            <idno type="VID">103434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tablet of Cebes the Theban philosopher, or, A true emblem of human life with an additional treatise concerning tranquillity of mind / written by Hipparchus and translated by Robert Warren.</title>
+                  <title>Tabula. English. 1699</title>
+                  <author>Cebes, of Thebes.</author>
+                  <author>Hipparchus, the Pythagorean. Excellent treatise concerning peace of conscience.</author>
+               </titleStmt>
+               <extent>[16], 124 p.   </extent>
+               <publicationStmt>
+                  <publisher>For John Pindar,</publisher>
+                  <pubPlace>Cambridge [Cambridgeshire] :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An excellent treatise concerning peace of conscience" has special t.p.</note>
+                  <note>Imperfect: tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:103434:1" rendition="simple:additions"/>
+                  <pb facs="tcp:103434:2"/>
+                  <pb facs="tcp:103434:2"/>
+                  <p>THE TABLET OF CEBES THE THEBAN PHILOSOPHER; OR <hi>A TRUE EMBLEM Of Human Life:</hi> Done out of <hi>Greek</hi> into <hi>Engliſh.</hi>
+                  </p>
+                  <p>With an Additional Treatiſe Concerning <hi>TRANQ<g ref="char:V">Ʋ</g>ILLITY of MIND,</hi> Written by HIPPARCHUS.</p>
+                  <p>
+                     <hi>And Tranſlated</hi> By <hi>ROBERT WARREN,</hi> Student of CHRIST'S College in CAMBRIDGE.</p>
+                  <q>
+                     <l>Quicquid agunt Homines, Votum, Timor, Ira, Voluptas,</l>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>audia, Diſcurſus, noſtri eſt Farrago Libelli.</l>
+                     <bibl>
+                        <hi>Juven.</hi> Sat. 1.</bibl>
+                  </q>
+                  <p>
+                     <hi>CAMBRIDGE,</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>for <hi>John Pindar,</hi> Bookſeller <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, 1699.</p>
+               </div>
+               <div type="imprimatur">
+                  <pb facs="tcp:103434:3"/>
+                  <p>Imprimatur.</p>
+                  <p>WILL: DAWES, <hi>Vice-Chanc:</hi>
+                  </p>
+                  <p>S. BLITHE.</p>
+                  <p>JA: JOHNSON.</p>
+                  <p>GABR: QUADRING.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:103434:3"/>
+                  <head>TO The REVEREND, WOR<g ref="char:EOLhyphen"/>THY, and TRULY LEARNED, Mr JOSHUA BARNES, <hi>Batchelour of Divinity, Se<g ref="char:EOLhyphen"/>nior Fellow of</hi> EMMANUEL <hi>College in</hi> CAMBRIDGE, AND The KING's GREEK PROFESSOR in that <hi>UNIVERSITY.</hi>
+                  </head>
+                  <opener>
+                     <salute>LEARNED SIR,</salute>
+                  </opener>
+                  <p>DEDICATIONS are now a days ſo much in fa<g ref="char:EOLhyphen"/>shion,
+<pb facs="tcp:103434:4"/> ſo frequently made uſe of, to recom<g ref="char:EOLhyphen"/>mend all manner of Books to the World; that should any <hi>Ma<g ref="char:EOLhyphen"/>nual,</hi> though never ſo ſmall, appear barefac'd without one, our <hi>Nice</hi> and <hi>Critical</hi> Age would be apt to caſt ſevere Reflections upon it; to condemn it, as mean and contemptible; and its <hi>Authour</hi> as Friend<g ref="char:EOLhyphen"/>leſs, and a Perſon of no Account.</p>
+                  <pb facs="tcp:103434:4"/>
+                  <p>To avoid theſe miſ<g ref="char:EOLhyphen"/>fortunes, I have made choice of ſo <hi>Eminent</hi> a PATRON for this following Tractate; whoſe <hi>Merit</hi> cannot be controverted, but by thoſe, who have <hi>none:</hi> and whoſe <hi>Candor</hi> ren<g ref="char:EOLhyphen"/>ders Him <hi>Gracious</hi> to all, but thoſe who are prejudic'd with Envy and Ill-nature.</p>
+                  <p>The Principal end of prefixing Your <hi>Great
+<pb facs="tcp:103434:5"/> Name</hi> to it, is to give a public Teſtimony of that deep obligation, which Your repeated Favours have laid up<g ref="char:EOLhyphen"/>on <hi>me.</hi> Particularly, Your Diligent Peru<g ref="char:EOLhyphen"/>ſal of <hi>this</hi> very <hi>Manual;</hi> by whoſe warrantable Recommendation it was brought to the Preſs. Should I there<g ref="char:EOLhyphen"/>fore have Dedicated it to any other, I am ſen<g ref="char:EOLhyphen"/>ſible, I had done quite
+<pb facs="tcp:103434:5"/> contrary to the Laws of <hi>Juſtice,</hi> and <hi>Grati<g ref="char:EOLhyphen"/>tude.</hi>
+                  </p>
+                  <p>Sir, without any <hi>For<g ref="char:EOLhyphen"/>mal Compliments,</hi> or <hi>Fawning Addreſſes,</hi> I ac<g ref="char:EOLhyphen"/>knowledge my ſelf to be highly oblig'd to You; and upon that Account You might juſtly challenge ei<g ref="char:EOLhyphen"/>ther this, or any other of my beſt Perfor<g ref="char:EOLhyphen"/>mances.</p>
+                  <pb facs="tcp:103434:6"/>
+                  <p>To You therefore, I with all <hi>Modeſty</hi> and <hi>Humility</hi> recommend this TABLET, as a <hi>Gem</hi> of great Value, being Compos'd by ſo Elegant an <hi>Author;</hi> Beſeeching You to Shelter it under the <hi>Umbrage</hi> of Your moſt ſafe Protection. And then I shall be inclin'd to think, it muſt neceſ<g ref="char:EOLhyphen"/>ſarily flourish under Your PATRON<g ref="char:EOLhyphen"/>AGE:
+<pb facs="tcp:103434:6"/> which will therefore more ſtrictly engage,</p>
+                  <closer>
+                     <salute>SIR,</salute>
+                     <signed>Your Faithfully Devoted Servant, <hi>R. W.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:103434:7"/>
+                  <head>AN <hi>ADMONITION</hi> To the READER.</head>
+                  <p>IN a certain Dialogue of <hi>Plato</hi>'s, which is call'd <hi>Phoedo,</hi> there is mention made amongst others of one <hi>CEBES,</hi> who is ſuppos'd the Author of this <hi>Excellent TA<g ref="char:EOLhyphen"/>BLET,</hi> by <hi>Caſelius;</hi> who hath
+<pb facs="tcp:103434:7"/> put Notes upon it. But <hi>Wol<g ref="char:EOLhyphen"/>fius,</hi> who had made a little Comment upon it, long before <hi>Caſelius,</hi> ſeems to queſtion it. Yet <hi>Diogenes Laertius,</hi> in his Lives of the <hi>Philoſophers,</hi> and <hi>Chalcidius</hi> do peremptorily aſ<g ref="char:EOLhyphen"/>ſert, that <hi>CEBES</hi> was the Author. <hi>Tertullian, Julius Pollux, Suidas,</hi> and <hi>Lucian,</hi> with many other Renowned Writers unanimouſly agree in the ſame; that there was one <hi>CEBES,</hi> a <hi>Philoſopher,</hi> who liv'd Four Hundred and Sixty Years before the Birth of our <hi>Bleſſed Lord</hi> and <hi>Saviour:</hi> that
+<pb facs="tcp:103434:8"/> 
+                     <hi>He</hi> was Born at <hi>Thebes</hi> in <hi>Boeotia,</hi> and was the Diſciple of <hi>Socrates;</hi> and, according to the Teſtimony of <hi>Laertius,</hi> He wrote Three Dialogues; two whereof are loſt, only <hi>This</hi> remaining.</p>
+                  <p>But now, it is no great matter, who is the Author, ſince the <hi>TABLET</hi> is very Elegant, and generally approv'd of by the moſt Eminent Writers. But here, I deſire to inſert one Caution, which ſhall be this. Let none, before they look into it, ſeem to ſlight or contemn it, by reaſon of its ſmallneſs; for the Excellent Doctrine, that is
+<pb facs="tcp:103434:8"/> in it, will eaſily compenſate, and make a ſufficient <hi>Apology,</hi> for its deficiency in that reſpect. And meer Reaſon, and daily Experience, have long ſince Taught us this Leſſon, That a little Gold is of more value than much Lead; and that there is more Excellency in a ſmall Diamond, or Ruby, than in ſome Quarries of Freeſtone. That it is Quality, not Quan<g ref="char:EOLhyphen"/>tity, that for the moſt part ſets price and eſteem upon things. And if ſo, as we all are ready to acknowledge; I may moſt ſafely infer, that this Book, tho'
+<pb facs="tcp:103434:9"/> ſmall in Bulk, yet is great in Worth: and I am very confi<g ref="char:EOLhyphen"/>dent, you may find richer Furni<g ref="char:EOLhyphen"/>ture in this little Room, than in more capacious Edifices.</p>
+                  <p>Accept it then, as the Pro<g ref="char:EOLhyphen"/>duct of my Tender Years, and the pleaſing Entertainment of a few ſpare Hours: and (if you dare take my word) moſt aſ<g ref="char:EOLhyphen"/>ſuredly great will be the Profit, and Pleaſure, which will ac<g ref="char:EOLhyphen"/>crew to thee, from thy diligent and frequent peruſal of it. For here thou haſt a fair Proſpect and View of the Life of Man, even from the Cradle to the
+<pb facs="tcp:103434:9"/> Grave. In theſe few ſheets thou maiſt plainly perceive, with what Joys, and Trophies, a Re<g ref="char:EOLhyphen"/>ligious Man is Crown'd; and on the contrary, with what ſcorn and deriſion, infamy and puniſhment, a Fooliſh, and Wic<g ref="char:EOLhyphen"/>ked Man is moſt deſervedly treated.</p>
+                  <p>Wouldſt thou then hear the true Encomium of this <hi>TA<g ref="char:EOLhyphen"/>BLET</hi> in one word? It will at once delight thy Mind, ex<g ref="char:EOLhyphen"/>cite thy Thoughts, conduct thee into the Right Way, by <hi>True Inſtruction;</hi> and at length, af<g ref="char:EOLhyphen"/>ter thou haſt continued there
+<pb facs="tcp:103434:10"/> ſome ſpace of Time, it will Crown thee with <hi>Everlaſting Life</hi> and <hi>Proſperity.</hi>
+                  </p>
+                  <p>
+                     <hi>Read</hi> it then attentively, <hi>Meditate</hi> on it ſeriouſly, and <hi>Follow</hi> the good Advice con<g ref="char:EOLhyphen"/>tain'd in it induſtriouſly. <hi>Fare<g ref="char:EOLhyphen"/>well.</hi>
+                  </p>
+               </div>
+            </front>
+            <group>
+               <text xml:lang="eng">
+                  <body>
+                     <div type="dialogue">
+                        <pb n="1" facs="tcp:103434:10"/>
+                        <head>THE TABLET OF CEBES THE THEBAN PHILOSOPHER.</head>
+                        <p>AS we were walking in the Temple of <hi>Saturn,</hi> and looking upon the divers Gifts of many Devout Perſons; amongſt the reſt we happen'd upon a large
+<pb n="2" facs="tcp:103434:11"/> Painted Table which was hung in the Porch of the Temple, con<g ref="char:EOLhyphen"/>taining very many ſtrange and uncouth reſemblances, the mean<g ref="char:EOLhyphen"/>ing of which we could not poſ<g ref="char:EOLhyphen"/>ſibly conjecture: For the Picture repreſented neither the form of a City nor Camp, but it conſiſt<g ref="char:EOLhyphen"/>ed of <hi>three</hi> Incloſures (as it were) one a pretty large one, and with<g ref="char:EOLhyphen"/>in that <hi>Two</hi> other; a greater and a leſſer. In the biggeſt Enclo<g ref="char:EOLhyphen"/>ſure of all, there was a Gate, about which ſtood a great num<g ref="char:EOLhyphen"/>ber of People, and within we ſaw many Women. In the firſt entrance ſtood a grave old Man, who ſeem'd to ſpeak, and to give ſome directions to the Per<g ref="char:EOLhyphen"/>ſons, as they went in. We had much diſcourſe amongſt our ſelves, what ſhould be the
+<pb n="3" facs="tcp:103434:11"/> meaning of this Pourtraicture, but none could conceive, what it really intended. At laſt, as we were in this doubt, an An<g ref="char:EOLhyphen"/>cient Man, that ſtood by, ſtept up and told us, <hi>Strangers</hi> (quoth He) it is no wonder, if this Picture trouble you to under<g ref="char:EOLhyphen"/>ſtand the true ſignification of it; for there are but few of our own Citizens, that can give the true Interpretation, as the firſt Donor deſign'd. For it was none of this City that gave it, but a Stranger, a Worthy Man, and a true follower of <hi>Pythagoras</hi> and <hi>Parmenides,</hi> both in Life and Doctrine; who coming to this City Dedicated both the Temple and the Table unto the ſervice of the GOD SATURN. Did ye know the Man, pray Sir,
+<pb n="4" facs="tcp:103434:12"/> quoth I? Yes, very well, ſaith He, and was an Auditour of his admir'd Doctrine a long time, even when I was but a Youth. He diſcours'd exceeding well, and I have often heard him Ex<g ref="char:EOLhyphen"/>pound the Myſteries of this Table.</p>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Sir, we beſeech you, if your Buſineſs be not very urgent, be pleas'd to Expound the meaning of it to us, for in truth, we have an ardent deſire to know.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſitor.</speaker>
+                           <p>Truly, Friends, I have leiſure enough, and ſhall be very willing to ſerve you; but you muſt take one caveat along with you, more than you are aware of, and that is this: That the Expoſition is but dangerous.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why, Sir?</p>
+                        </sp>
+                        <sp>
+                           <pb n="5" facs="tcp:103434:12"/>
+                           <speaker>Expoſ.</speaker>
+                           <p>I'll tell you; if you give good attention unto the Diſcourſe, that you ſhall hear, and underſtand what will be ſuggeſted to you, it will make you both wiſe and happy; if not, it will make you ignorant, heedleſs, and moſt miſerable. For this Explanation much reſemb<g ref="char:EOLhyphen"/>leth the Riddle of <hi>Sphinx</hi> a Fair Sorcererſs, that us'd to delude Paſſengers with <hi>Aenigmatical</hi> Queſtions; He that could appre<g ref="char:EOLhyphen"/>hend them, paſt by ſafe, but he that did not, was ſure to pay for his ignorance with his Life. Juſt ſo it is here. For Ignorance is a <hi>Sphinx</hi> unto Man. And this obſcure Picture containeth a de<g ref="char:EOLhyphen"/>ſcription of all the Good and Evil, that attendeth the Life of Man, and of that, which is nei<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:103434:13"/> Good nor Evil. Now if a Man underſtands not this a<g ref="char:EOLhyphen"/>right, it will not diſpatch him at once; as the rapacious <hi>Sphinx</hi> did thoſe that fell into her claws; but it will infect his whole Life with a continual remorſe, and ſuch a torment, as thoſe ſeek, who being condemn'd to dye, do every moment expect the hand of the Executioner. But contrarywiſe, if any one clearly apprehends it, ignorance is quite undone, and the Man is ſafe and compleatly happy. Mark my words well therefore, and let them not go in at one Ear, and out at another.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Good God, what a vehement deſire have you in<g ref="char:EOLhyphen"/>flam'd us with to hear this Ta<g ref="char:EOLhyphen"/>ble Expounded, if all be thus!</p>
+                        </sp>
+                        <sp>
+                           <pb n="7" facs="tcp:103434:13"/>
+                           <speaker>Exp.</speaker>
+                           <p>Yes infallibly, 'tis thus.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Proceed then, Sir, we beſeech you, as quick as you pleaſe; for we'll be no negligent Hearers in a matter of ſo great importance.</p>
+                           <p>Now the Old Man up with his Staff, and pointing to the Picture, ſee you this Encloſure? ſaith He.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes, very well.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Then mind me. This is call'd LIFE, and the great mul<g ref="char:EOLhyphen"/>titude, you ſee flock about the Gate, are ſuch as are to enter in. And that old <hi>Father,</hi> which you ſee with a Paper in one hand, and ſeeming to point out ſomething therein with the o<g ref="char:EOLhyphen"/>ther, is call'd LIFE'S GENIUS. He inſtructeth thoſe, that enter, what method to obſerve in the
+<pb n="8" facs="tcp:103434:14"/> courſe of their Life, and in<g ref="char:EOLhyphen"/>formeth them, what they muſt follow, upon peril of their utter deſtruction.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>I Pray you, what kind of Life doth he Teach them to follow? or how would he have them begin?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>See you not a Throne hard by the Gate, as the People go in, and a Woman ſitting thereon, with a Vizor on her Face, and a Cup in her hand?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes, that I do; what is ſhe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>It is IMPOSTURE, that ſeduceth all the World.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What doth ſhe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>She reacheth forth to drink of her own brewing unto all men that enter into Life.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What drink is it?</p>
+                        </sp>
+                        <sp>
+                           <pb n="9" facs="tcp:103434:14"/>
+                           <speaker>Expoſ.</speaker>
+                           <p>It is ERROUR and IGNORANCE.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>How then?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why when they have taſted of this Cup, then enter they the courſe of Life.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But tell us, Sir, do all then drink of ERROUR?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>All of a certain; but ſome more and ſome leſs. But Prithee, look yonder, ſee you not an whole Tribe of Women, dreſs'd like Courtiſans, there within the Gate?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why, ſome of thoſe are call'd OPINIONS, ſome DESIRES, and others PLEA<g ref="char:EOLhyphen"/>SURES, and as ſoon as any come in at the Gate, theſe pre<g ref="char:EOLhyphen"/>ſently (Forſooth) run dancing to them, fall to courting them,
+<pb n="10" facs="tcp:103434:15"/> and ſo lead them, whither they liſt.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Whither do they lead them?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Some to Security, and ſome to Ruin, as they had drank more or leſs of IMPOSTURE'S Beverage.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Oh! Worthy Sir, how dangerous a drink have you told us of?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>But obſerve further, when they firſt come unto men, then (marry) they make them great Promiſes of all dainties and delights; of perpetual Safe<g ref="char:EOLhyphen"/>ty and perfect Happineſs. Now the Gueſts being well drunk with the ERROUR and IG<g ref="char:EOLhyphen"/>NORANCE, that IMPOSTURE preſented them with, cannot for their hearts find the right
+<pb n="11" facs="tcp:103434:15"/> way to that good courſe of Life, but go wandring about they know not whither, as you ſee them Painted in the Picture it ſelf. And you now ſee them that were entred juſt before, go round about, as theſe Women direct them?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>We do ſo, but what Woman is that, that ſtands up<g ref="char:EOLhyphen"/>on that round Stone, ſeeming as if ſhe were blind and mad by her carriage and geſture?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>That ſame is the Lady, which you hear ſo much talk of, MADAM FORTUNE; ſhe is indeed not only blind but mad and deaf too.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What doth ſhe there then? (I wonder.)</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>She rambles about, taking from one, and giving to
+<pb n="12" facs="tcp:103434:16"/> another, and by and by taketh that away, which ſhe gave but even now, and makes a Preſent of it to a third, without all rea<g ref="char:EOLhyphen"/>ſon or conſtancy: And there<g ref="char:EOLhyphen"/>fore this Repreſentation ſets her forth to the Life.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Which is that?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Her ſtanding upon that round Stone.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What is the meaning of that?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>That her Gifts are never certain, nor ſecure; for he that buildeth his Truſt upon them, ſhall be ſure one day to pay dear enough, for his Faith and Confidence.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What means that great multitude which ſtands about her? What do they beg, and under what Name do they go, we Pray you?</p>
+                        </sp>
+                        <sp>
+                           <pb n="13" facs="tcp:103434:16"/>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why, every one of them begs thoſe things, which Fortune caſts from her, and (to deal ingenuouſly and plainly with you) they are call'd <hi>Fools</hi> for their Pains.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>How chanceth it, that ſome of them weep, and ſome laugh? Why do they not all keep the ſame countenance?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>You muſt underſtand, they that laugh and rejoice, are FORTUNE'S Favourites, and Salute her by the Title of <hi>Proſ<g ref="char:EOLhyphen"/>perous.</hi> But they that wring their hands and lament, are ſuch as ſhe has turn'd her back upon, having depriv'd them of that, which ſhe had given them be<g ref="char:EOLhyphen"/>fore, and they call her AD<g ref="char:EOLhyphen"/>VERSE FORTUNE.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What are her mighty
+<pb n="14" facs="tcp:103434:17"/> Gifts then, that they ſhould make the <hi>Loſers</hi> lament and the <hi>Receivers</hi> rejoice at ſuch a rate?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Her Gifts, I'll aſſure you, are reputed goods.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Pray tell us what they are.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>In ſhort, they are RICHES, NOBILITY, CHIL<g ref="char:EOLhyphen"/>DREN, GLORY, SOVERAIGN<g ref="char:EOLhyphen"/>TY, EMPIRE, and the like.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And, Pray Sir, do you not hold theſe for goods?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Of that hereafter, let us now make an end of the Table's Expoſition.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>With all our heart, Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>You ſee now, that paſt that Gate, there is another Encloſure, lying higher up, and certain Women dreſs'd after the ſame ſort, ſtanding at the door.</p>
+                        </sp>
+                        <sp>
+                           <pb n="15" facs="tcp:103434:17"/>
+                           <speaker>Strang.</speaker>
+                           <p>We ſee.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Well, one of theſe is call'd INCONTINENCY, another LUXURY, another AVARICE, another FLATTERY.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And upon what ac<g ref="char:EOLhyphen"/>count do they ſtand there?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>They watch, when FORTUNE beſtoweth any thing upon any Man.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>How then?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Then they rejoice and embrace him, and flatter him, and intreat him to ſtay with them, promiſing him a Life re<g ref="char:EOLhyphen"/>pleniſht with all the delight and pleaſures imaginable, without any allay of pain, grief or ſor<g ref="char:EOLhyphen"/>row. If any one do but like this, he is tickl'd (in an inſtant) with vain delight, that he ima<g ref="char:EOLhyphen"/>gineth an Heaven upon Earth;
+<pb n="16" facs="tcp:103434:18"/> when in the main it is quite otherwiſe. For when he is come to his right underſtanding, then he will immediately perceive, that he hath not eaten at their charges, but that they have devour'd up him, and when they had ſo done, diſmiſs'd him with ſcorn and deriſion. And now all FORTUNE'S donatives proving juſt nothing at the end, he muſt turn a new courſe, and let himſelf drudge to thoſe drabs, ſuffer all their imperious injuries, and undergo all ſervile offices, for their pleaſures, as (for inſtance) <hi>Couſenage, Sacri<g ref="char:EOLhyphen"/>lege, Treachery, Thievery,</hi> and all the reſt of that forlorn and ungrateful Company; and when all thoſe wicked Trades fail, then is he turn'd over into the
+<pb n="17" facs="tcp:103434:18"/> hands of PUNISHMENT.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>PUNISHMENT, which is ſhe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Do you not perceive a little grate in the Picture, be<g ref="char:EOLhyphen"/>hind thoſe Women, and within that a dark Dungeon, as it were?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>And a great many Women all in tatter'd rags and forlorn ſhapes?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>We ſee them alſo.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why, that ſame that holdeth the Scourge, is call'd PUNISHMENT. She that leaneth her head upon her knee is SORROW; ſhe that teareth her hair DISTRACTION.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>There ſtands a Man alſo behind them, all deform'd, meager, and naked, and a Wo<g ref="char:EOLhyphen"/>man with him, his very Picture
+<pb n="18" facs="tcp:103434:19"/> (methinks) who be they?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>The Man's Name is ANGUISH and the Woman's is DESPERATION; unto theſe is the Ruin'd Man paſs'd over and confin'd to live in doleful extremity. From thence they drive him farther into the Goal of infelicity, and there he ſhall be ever impriſon'd, un<g ref="char:EOLhyphen"/>leſs releas'd by REPENTANCE.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why, what can RE<g ref="char:EOLhyphen"/>PENTANCE do in ſuch a Caſe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Marry, ſhe can deliver him out of this Pit of deſtruction and bring him acquainted with another OPINION, and DE<g ref="char:EOLhyphen"/>SIRE, who will either conduct him ſafe unto true INSTRUC<g ref="char:EOLhyphen"/>TION, or elſe unto that falſly ſo call'd.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>How then?</p>
+                        </sp>
+                        <sp>
+                           <pb n="19" facs="tcp:103434:19"/>
+                           <speaker>Expoſ.</speaker>
+                           <p>If he embrace that OPINION, that giveth him di<g ref="char:EOLhyphen"/>rections in the way of true IN<g ref="char:EOLhyphen"/>STRUCTION, he ſhall thereby be Purify'd and Reform'd, and paſs the reſt of his Life in the fulneſs of Perfection, above the reach of all future calamities: otherwiſe if he do not ſo, FALSE INSTRUCTION will ſubvert him with a new deceit.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>O GOD! How dread<g ref="char:EOLhyphen"/>ful is this laſt danger you have acquainted us with; but what kind of Creature is this FALSE INSTRUCTION you ſpeak of?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Behold yonder other Encloſure.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>So we do, Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>At the Gate ſits a Woman in neat and decent Apparel: the vulgar and fooliſh
+<pb n="20" facs="tcp:103434:20"/> ſort of People call her IN<g ref="char:EOLhyphen"/>STRUCTION, but falſly. Now they that mean to paſs unto TRUE INSTRUCTION, do all firſt come unto this Woman.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why, is there no other way but this to carry us to TRUE INSTRUCTION?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Yes, there is.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Who are they, that walk about within that Enclo<g ref="char:EOLhyphen"/>ſure?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>They are the follow<g ref="char:EOLhyphen"/>ers of FALSE INSTRUCTION, imagining in themſelves (but altogether erroneouſly) that they enjoy the Company of TRUE INSTRUCTION.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And what are their Profeſſions?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Some of them profeſs <hi>Poetry,</hi> ſome <hi>Oratory,</hi> ſome
+<pb n="21" facs="tcp:103434:20"/> 
+                              <hi>Logick,</hi> ſome <hi>Muſick,</hi> ſome <hi>Rhe<g ref="char:EOLhyphen"/>torick,</hi> ſome <hi>Arithmetick,</hi> ſome <hi>Critick, Geometry, Aſtrology, Philoſophy,</hi> and all other Pro<g ref="char:EOLhyphen"/>feſſions have their Followers within this Ring, nay here are profeſs'd <hi>Voluptuaries</hi> alſo.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But who are thoſe Women, that gad about like the former, amongſt whom you rec<g ref="char:EOLhyphen"/>kon'd INCONTINENCY, and their Fellows?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Theſe are they.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But do they come hither alſo?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>That they do, but ſeldom; and not as in the firſt Encloſure.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And do the OPINI<g ref="char:EOLhyphen"/>ONS come thus far alſo?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Yes verily do they. For the draught that IMPOS<g ref="char:EOLhyphen"/>TURE
+<pb n="22" facs="tcp:103434:21"/> giveth them at the firſt, is not yet out of their heads; they do as yet ſmell of the dregs of ERROUR and IGNORANCE. Nor ſhall they ever be quit of their Opinions, or other Vices, which they imbib'd, till they bid adieu to FALSE INSTRUC<g ref="char:EOLhyphen"/>TION, and betake themſelves to a new courſe, and taking a Potion, by Name ERROUR'S Purgation, thereby Vomit up all the Evils, that offended their minds, as their OPINIONS, their IGNORANCE, and all their other Exorbitances; for ſo ſhall their Conſciences be abſo<g ref="char:EOLhyphen"/>lutely cur'd. But as long as they keep Company with FALSE INSTRUCTION, they ſhall never be ſound, nor ſhall their Learning help them away with
+<pb n="23" facs="tcp:103434:21"/> one inconvenience.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Which is the way then, that leadeth unto TRUE INSTRUCTION?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why, look you here, ſee you this high place, as de<g ref="char:EOLhyphen"/>ſart and uninhabited?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Well Sir, how then?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Then you ſee that lit<g ref="char:EOLhyphen"/>tle Gate, and the way there be<g ref="char:EOLhyphen"/>fore that Gate, which ſeems to be but little trodden, lying in ſuch a deep deſcent of that crag<g ref="char:EOLhyphen"/>gy rock?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>That we ſee alſo.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>And that Hill too, that is compaſs'd on both ſides with inacceſſible Cliffs, having only one narrow Path, whereby to aſcend it?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes, Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>That very Path is all
+<pb n="24" facs="tcp:103434:22"/> the way we have to TRUE IN<g ref="char:EOLhyphen"/>STRUCTION.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But truly, Sir, it ſeems to us almoſt impoſſible to get up to the top of it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>See that ſteep Rock by that other Hill.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>We ſee it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Don't you perceive two luſty and comely Virago's, ſtanding thereupon, and reach<g ref="char:EOLhyphen"/>ing forth their hands, as it were, to invite one?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>We perceive them well, but what are their Names?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>One of them is call'd CONTINENCY and the other TOLERANCE, and they are Siſters.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why do they reach forth their hands?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>They encourage the
+<pb n="25" facs="tcp:103434:22"/> Travellers, that paſs by that way, to be of good chear, and to deſpiſe DESPERATION, the Daughter of <hi>Sloth;</hi> aſſuring them, that after a little toil, the remainder of their Life ſhall be crown'd with bleſſed Tranquil<g ref="char:EOLhyphen"/>lity; and that if they will climb but a little, all the way will be more eaſy and paſſable.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But when they are got as far as the Rock, what courſe muſt they take to get up? We ſee no means they can uſe to mount ſo ſteep a Cliff.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>You ſay right; but the two Siſters do come down themſelves from the top, and lending them their helping hands, pull them up by degrees: after they have drawn them up a little way, they let them reſt
+<pb n="26" facs="tcp:103434:23"/> a while, and then they fetch FORTITUDE and CONFI<g ref="char:EOLhyphen"/>DENCE unto them, and paſs their words to bring them to the Preſence of TRUE IN<g ref="char:EOLhyphen"/>STRUCTION, ſhewing them how plain and pleaſant the Path is, now, that they have con<g ref="char:EOLhyphen"/>quer'd the firſt and greateſt dif<g ref="char:EOLhyphen"/>ficulty; and how pure and clea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> it is from crags and incumbran<g ref="char:EOLhyphen"/>ces, as you ſee there in the Ta<g ref="char:EOLhyphen"/>ble.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>One would think ſo in good earneſt.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>See you not that wood, and before it, as it were a curious piece of Land or Mead all full of light and delight?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>It is ſo.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>There is another En<g ref="char:EOLhyphen"/>cloſure in the midſt of that with
+<pb n="27" facs="tcp:103434:23"/> a Gate into it. See you that?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes; but how call you that Encloſure?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>It is call'd, I promiſe you, the Seat and Habitation of the Bleſſed; for there dwell all the VIRTUES and BEA<g ref="char:EOLhyphen"/>TITUDE her ſelf.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>To the Eye it ſeems an Heavenly Place.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>You ſee that goodly Gentlewoman, that ſtands by the Gate, with a fixed Eye, of a middle and juſt Age, in a plain and ordinary Habit, and ſtand<g ref="char:EOLhyphen"/>ing upon a Stone, not round, but exactly ſquare; if you ob<g ref="char:EOLhyphen"/>ſerve there ſtand two other Wo<g ref="char:EOLhyphen"/>men juſt by her, that ſeem to be her Daughters.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>So they do.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>She, that ſtands in
+<pb n="28" facs="tcp:103434:24"/> the middle, goes under the Name of INSTRUCTION, ſhe on the right hand, TRUTH, and ſhe on the left, PERSWA<g ref="char:EOLhyphen"/>SION.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But pray reſolve us, why INSTRUCTION ſtands upon a ſquare Stone.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Exp.</speaker>
+                           <p>To ſhew, that the Path, which leadeth unto her, is fair and ſquare, as we ſay, and firm; &amp; that her Gifts do bleſs the Re<g ref="char:EOLhyphen"/>ceiver with Fruits of Security.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What are her Gifts?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why, COURAGE, SECURITY, and ACQUIT<g ref="char:EOLhyphen"/>TANCE from troubles.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And what Benefit by theſe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>By theſe Man perceiv<g ref="char:EOLhyphen"/>eth, that his Life is now to continue void of all perturba<g ref="char:EOLhyphen"/>tion.</p>
+                        </sp>
+                        <sp>
+                           <pb n="29" facs="tcp:103434:27"/>
+                           <speaker>Strang.</speaker>
+                           <p>O Rich! O Glorious! O Bleſſed Gifts! But why doth ſhe ſtand without the Encloſure?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>To cure the Travel<g ref="char:EOLhyphen"/>lers, and give them their clean<g ref="char:EOLhyphen"/>ſing Draught, before they enter, and then when they are thor<g ref="char:EOLhyphen"/>oughly cleanſed to introduce them unto theſe VIRTUES.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>How can this be, dear Sir! In truth, we don't underſtand you.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>You ſhall tho'. It is in this caſe, as it is in a ſick and diſeas'd perſon's, who hath preſently recourſe to an Emi<g ref="char:EOLhyphen"/>nent Phyſician. Now to make a Cure the Phyſician firſt of all purges away the Cauſes, and Nutriment of the Malady, and then plys him with ſome ſtreng<g ref="char:EOLhyphen"/>thning Cordials, and finally
+<pb n="30" facs="tcp:103434:25"/> (thro' GOD) makes him ſafe and ſound. But ſuppoſe the perſon had neglected the <hi>Do<g ref="char:EOLhyphen"/>ctor</hi>'s advice, the diſeaſe would quickly have rooted in his Bo<g ref="char:EOLhyphen"/>dy, and when once it had got<g ref="char:EOLhyphen"/>ten the upperhand, might have kill'd him; and whom might he thank then but himſelf?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>I marry, Sir, this is intelligible indeed.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Well, in this manner do Men approach the Station of INSTRUCTION, which as ſoon as they arrive at, ſhe preſently taketh them in hand, preſcribes them a Medicine of her own making, that ſo they may purge out all their in<g ref="char:EOLhyphen"/>gulph'd Evils, and caſt them forth as by Vomit or Ejection.</p>
+                        </sp>
+                        <sp>
+                           <pb n="31" facs="tcp:103434:25"/>
+                           <speaker>Strang.</speaker>
+                           <p>What are the Evils, they caſt up?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>ERROUR and IG<g ref="char:EOLhyphen"/>NORANCE, both of which they drank from the Cup of IMPOSTURE; ARROGANCE al<g ref="char:EOLhyphen"/>ſo, AVARICE, LUST, IN<g ref="char:EOLhyphen"/>TEMPERANCE, WRATH, and all the Poiſons, which they ſwallow'd down, while they were in the firſt Encloſure.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But when they are well purg'd, whither ſends ſhe them?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>She admits them in unto KNOWLEDGE and the other VIRTUES.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Which are they?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why, ſee you not a company of comely and modeſt Ladies there within the Gate, amongſt whom there is not one, that ſeemeth painted or extra<g ref="char:EOLhyphen"/>vagantly
+<pb n="32" facs="tcp:103434:26"/> dreſs'd, as others were all before?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>We ſee them; how call you them?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>The foremoſt of them KNOWLEDGE, the reſt are her Siſters, and they are call'd FORTITUDE, JUSTICE, INTE<g ref="char:EOLhyphen"/>GRITY of Life, MODESTY, LIBERALITY, CONTINENCY, and CLEMENCY.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Oh! goodly conſort! how great expectation have you rais'd in us!</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Compleat will your hopes be, if you rightly appre<g ref="char:EOLhyphen"/>hend this Relation, and ſeriouſ<g ref="char:EOLhyphen"/>ly apply it to your courſe of Life in this vain and wicked World.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Truly, Sir, there ſhall be nothing wanting on our ſide.</p>
+                        </sp>
+                        <sp>
+                           <pb n="33" facs="tcp:103434:26"/>
+                           <speaker>Expoſ.</speaker>
+                           <p>Well, make your words good, do but as you ſay, and (believe me) Peace and Tranquillity ſhall crown your Victory.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But (if we may be ſo bold) whither do theſe VIR<g ref="char:EOLhyphen"/>TUES lead a Man, when once they have receiv'd him?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Unto their Mother.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What do they call her?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>BEATITUDE.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What is ſhe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>See you not a way, that aſcendeth that heighth there, whereupon the Tower of the three Encloſures is found<g ref="char:EOLhyphen"/>ed? Behold there a fair and flouriſhing <hi>Matron,</hi> enthron'd in State, ſat at the Porch of the ſaid Tower, in decent Apparel,
+<pb n="34" facs="tcp:103434:27"/> and without any thing of Va<g ref="char:EOLhyphen"/>nity or affectation, and moſt delicately crown'd with a flow<g ref="char:EOLhyphen"/>ry <hi>Chaplet?</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>You ſay right? Sir; what is ſhe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>The very Perſon, that is call'd BEATITUDE.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And when one cometh at her, what doth ſhe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>She crowneth him with her own Eſſence, and ſo do all the other Virtues, as they crown thoſe, that come off Con<g ref="char:EOLhyphen"/>querours in <note n="*" place="bottom">This Dialogue alludes very much to the <hi>O<g ref="char:EOLhyphen"/>lympick Games</hi> in various places.</note> the Olympick Games.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What conflicts hath he been engag'd in?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>In many ſore ones, and hath conquer'd many a Sal<g ref="char:EOLhyphen"/>vage
+<pb n="35" facs="tcp:103434:27"/> Beaſt, that before even de<g ref="char:EOLhyphen"/>devour'd him, and tormented him, and made him a meer Slave: All theſe he has conquer'd and beat off, and has even overcome himſelf, being now rendred his own Man again; ſo that now they ſerve him, as he was made to ſerve them before.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>What Beaſts are they you ſpeak of, Sir? we have an earneſt deſire to know.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Why, Sirs, firſt I ſpeak of IGNORANCE and ER<g ref="char:EOLhyphen"/>ROUR, are not they Beaſts?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes, and cruel ones too, we think.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Then I ſpeak of AN<g ref="char:EOLhyphen"/>GUISH, SORROW, AVARICE, INTEMPERANCE, and all other kind of <hi>Vices;</hi> all theſe hath he ſubjugated, and hath now at
+<pb n="36" facs="tcp:103434:28"/> his command, whereas before he was at theirs.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>O moſt Triumphant Victory, and worthy to be E<g ref="char:EOLhyphen"/>ternally kept in mind! but tell us this, Sir, we beſeech you, what mighty Power is there in the Crown, ſhe giveth him?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>A mighty Strength and Power (young Men) there is in that Crown. He, who is crown'd with it, ſhall be really happy, and exalted above all miſery; nor ſhall his happineſs depend upon others, but be fully Eſtabliſht in himſelf.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>O what a brave Vi<g ref="char:EOLhyphen"/>ctory is there! But what doth he that is honour'd with this Crown? Whither doth he march then?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Then do the VIR<g ref="char:EOLhyphen"/>TUES
+<pb n="37" facs="tcp:103434:28"/> conduct him back the ſame way that he came, and ſhew him thoſe, that are below, how miſerable and deplorable their condition is, and what a ſhipwrack they make of their Life following no exact courſe, but are enſlav'd to their foes, ſome to ARROGANCE, ſome to AVARICE, ſome to AMBITION and VAIN-GLORY, ſome to one kind of Ruin and ſome to another; from which Bonds, wherein they are enſlav'd, they can by no means extricate them<g ref="char:EOLhyphen"/>ſelves, ſo as to be ſav'd and arrive unto this place: but are confounded and troubled all their Life long: And this they ſuffer, becauſe they cannot find the way hither, for they forgot the Inſtructions of the GE<g ref="char:EOLhyphen"/>NIUS.</p>
+                        </sp>
+                        <sp>
+                           <pb n="38" facs="tcp:103434:29"/>
+                           <speaker>Strang.</speaker>
+                           <p>You ſeem to ſay well, Sir, but here again we are at a loſs; why ſhould the VIRTUES bring him to the place and dan<g ref="char:EOLhyphen"/>ger, that he hath already eſcap'd?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>I'll tell you; when he made his firſt eſcape, he did not conceive half the matter, nor did he apprehend the actions, that were done there, ſcarce any thing at all; but was altogether peſter'd with ſlaviſh doubts and fears, becauſe of the drink of ERROUR and IGNORANCE, which he had taſted, which made him look upon that for good, which in the main had nothing of goodneſs in it, and on evil after the ſame faſhion; whereby he was thruſt into a deprav'd Eſtate, as well
+<pb n="39" facs="tcp:103434:29"/> as the reſt that tarry there. But now having attained the know<g ref="char:EOLhyphen"/>ledge of things convenient and conducible to him, he both contemplates the miſery of others, and enjoys true felicity himſelf.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But when he hath obſerv'd and conſider'd the in<g ref="char:EOLhyphen"/>felicity of theſe Men, what doth he then, or whither doth he go?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Verily, even what he liſts, and whither he pleaſes. For he is as ſafe and ſecure, as if he were ſhelter'd in the <hi>Corycian</hi> Cave, or in the <hi>Muſes</hi> lap; and let him live, where he will, he ſhall paſs his time in Peace and Piety, and free from all manner of trouble and vexation. All Men ſhall be as fond of his
+<pb n="40" facs="tcp:103434:30"/> company and converſation, as the Patient is of the Phyſician's.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why, but ſhall he never more be afraid of thoſe Women, you lately term'd Beaſts? Shall they have no more power to hurt him?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>No, not to touch or come nigh him. He ſhall bid defiance to SORROW, TROU<g ref="char:EOLhyphen"/>BLE, INCONTINENCE, AVA<g ref="char:EOLhyphen"/>RICE, NEED, and all other the worſt of <hi>Enemies;</hi> he ſhall curb and keep them under now, at his pleaſure, who before moleſted him; like <note n="*" place="bottom">This Paſſage was before miſtook by Interpre<g ref="char:EOLhyphen"/>ters, <gap reason="foreign">
+                                    <desc>〈 in non-Latin alphabet 〉</desc>
+                                 </gap>, a People like the <hi>Marſians.</hi>
+                              </note> the <hi>Mar<g ref="char:EOLhyphen"/>ſians,</hi> who familiarly converſe with <hi>Vipers.</hi> For thoſe Creatures, who are fatal to all others, do theſe no harm; becauſe they bear
+<pb n="41" facs="tcp:103434:30"/> in themſelves a preſent Remedy; ſo likewiſe ſhall no evil approach this happy Man, becauſe in him<g ref="char:EOLhyphen"/>ſelf he hath a quick Preſervative againſt all their infections.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Very well, but pray, Sir, be pleas'd to give us your thoughts concerning yonder place; for we ſee a vaſt number of People coming down the Hill, as it were, ſome with Crowns on their heads, ſeem<g ref="char:EOLhyphen"/>ing to rejoice and leap for joy, and others bare-headed looking like Men in extream Deſpair, with their heads and legs all bruis'd; &amp; ſeveral Women ſeem to detain them, what are theſe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Exp.</speaker>
+                           <p>They, that wear Crowns, are newly created the Children of INSTRUCTION, and rejoice at their Adoption; thoſe, that
+<pb n="42" facs="tcp:103434:31"/> are without Crowns, are ſome of them rejected by her, and ſo fallen into a deſperate con<g ref="char:EOLhyphen"/>dition; others made weak thro' ſloth, when they had gotten up as far as TOLERANCE, went back again, and ſo run a wan<g ref="char:EOLhyphen"/>dring they knew not whi<g ref="char:EOLhyphen"/>ther.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>But who are the Wo<g ref="char:EOLhyphen"/>men that follow them?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>There's SORROW, TROUBLE, DESPERA<g ref="char:EOLhyphen"/>TION, IGNOMINY and IG<g ref="char:EOLhyphen"/>NORANCE.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why then (be like) all the evils imaginable follow them at their heels?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>So they do, and when they return into the firſt Enclo<g ref="char:EOLhyphen"/>ſure, unto LUXURY and IN<g ref="char:EOLhyphen"/>CONTINENCE, they never
+<pb n="43" facs="tcp:103434:31"/> blame themſelves, but fall a curſing INSTRUCTION, and all that are in the way to her, as wretches and miſerable fools, that leave the Path, which theſe now tread in, and the Pleaſure of the firſt Encloſure, to go ſeek and haunt out a courſe of ſuch unhappineſs; denying to ſtay and ſhare with them in their delightful goods.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And what are their goods?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Shall I tell you in a word? they are PRODIGALI<g ref="char:EOLhyphen"/>TY, and INTEMPERANCE. For juſt like Beaſts they are all for the Belly, and conclude that then they are entirely hap<g ref="char:EOLhyphen"/>py, when that is full.</p>
+                        </sp>
+                        <sp>
+                           <pb n="44" facs="tcp:103434:32"/>
+                           <speaker>Strang.</speaker>
+                           <p>But what call you the other Women, that come down there laughing and ſinging?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>They are OPINIONS; they carry Men up unto IN<g ref="char:EOLhyphen"/>STRUCTION, and when they have done, come back and tell the reſt, how welcome thoſe were, whom they preſented, and how they are now in a bleſt Eſtate.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why, but do theſe OPINIONS go in unto the VIRTUES?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>No, by no means; 'tis never allow'd for OPINION to come within view of KNOW<g ref="char:EOLhyphen"/>LEDGE. They only convey the Men to INSTRUCTION, whom as ſoon as e'er ſhe hath accepted of, they go their waies to fetch more and more, like as Ships
+<pb n="45" facs="tcp:103434:32"/> that having unladen their Freight, ſet out preſently for a new Voyage, taking in other Commodities.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>In truth, Sir, your Compariſon is very witty and ingenious; but you have not told us yet, what it is, that LIFE'S GENIUS ſaith unto thoſe that are to enter this courſe of Life?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>He biddeth them be of good chear; and I pray, be you of good chear likewiſe; for I will not keep a <hi>Letter</hi> of the Ex<g ref="char:EOLhyphen"/>poſition from you.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>We thank you hear<g ref="char:EOLhyphen"/>tily, Sir, ſaid we all.</p>
+                           <p>Then He reaching forth his Staff again, pointed up, ſaying, ſee you that blind Woman upon the round Stone there, who is
+<pb n="46" facs="tcp:103434:33"/> call'd FORTUNE, as I told you before?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Yes.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>The GENIUS bid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> them never to give heed unto her, never to imagine any ſoli<g ref="char:EOLhyphen"/>dity in her Bounties, never to think her Gifts their proper Goods: for even when ſhe liſt, ſhe will take them from one, and beſtow them upon another maugre all Contradiction; it is her common Practice. And for this Reaſon he forewarns them not to be delighted with her Beneficence, nor dejected at her inconſtancy and frowardneſs, never to be vanquiſh'd by her fickle pleaſant ſmiles or moroſe frownings; in a word, neither to curſe nor applaud her, ſee<g ref="char:EOLhyphen"/>ing that all her doings are with<g ref="char:EOLhyphen"/>out
+<pb n="47" facs="tcp:103434:33"/> diſcretion, and ſhe hurleth all about at ſix and ſeven, as I hinted to you juſt now. Therefore doth this GENIUS bid them never to wonder at her odd Vagaries, nor to be concern'd at any thing, ſhe do's, or be like fooliſh Bankers. For they, when they receive any Money of Men, are jocund, as if 'twas their own. But when they are ask'd to refund, they are vex'd, as if you did 'em an injury; never remembring, that they at firſt receiv'd the ſums, on this very condition, that he that lent them might at his plea<g ref="char:EOLhyphen"/>ſure recall them in. Thus our GENIUS commands us to be<g ref="char:EOLhyphen"/>have our ſelves, as to what ſhe lends us; and to remember that this is the natural diſpoſition
+<pb n="48" facs="tcp:103434:34"/> of FORTUNE; to give and take, to give one at firſt a pret<g ref="char:EOLhyphen"/>ty deal, and then preſently to require all back again. He bids us upon this account receive her Gifts with indifferency, and when we have them, to make haſte to that firm and ſtable kind of Bounty.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Which is that?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Exp.</speaker>
+                           <p>That which INSTRUC<g ref="char:EOLhyphen"/>TION giveth to thoſe that come ſafe to her Tower to ask it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And what doth ſhe give?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>She giveth the true knowledge of profitable things, a Gift of immutable goodneſs and ſecurity. To her therefore he wiſhes them all to quicken their pace, and when they come to LUXURY and INCON<g ref="char:EOLhyphen"/>TINENCE,
+<pb n="49" facs="tcp:103434:34"/> the two Women aforenam'd, to paſs by them ſpeedily, and to ſtop their Ears unto their enveigling perſwa<g ref="char:EOLhyphen"/>ſions, and ſo to haſten on, till they come to FALSE INSTRUC<g ref="char:EOLhyphen"/>TION. There he adviſeth them to make a little ſtay, and take what they like of her as their <hi>Viaticum</hi> for the reſt of their Journey, and then to ſcowre away with all ſpeed unto the Palace of TRUE INSTRUC<g ref="char:EOLhyphen"/>TION. This is the charge, that LIFE'S GENIUS layeth upon all, that are juſt making en<g ref="char:EOLhyphen"/>trance into the firſt Encloſure. He, that either refuſeth it, or miſapplyeth it, comes home by Unhappineſs and Ruin. This (my good Friends) is the whole Expoſition of this Table; if you
+<pb n="50" facs="tcp:103434:35"/> want any farther ſatisfaction in any particular, let me know, and I ſhall be ready to reſolve you.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>A <hi>Thouſand</hi> thanks to you, Sir, for what you have already made eaſy to us: and you will lay an infinite obliga<g ref="char:EOLhyphen"/>tion upon us, if you will be pleas'd to inform us, what it is that the GENIUS wiſheth them to take at the ſtation of FALSE INSTRUCTION.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Such things, as will be requiſite and beneficial.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>And what are thoſe?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>
+                              <hi>Letters, Languages,</hi> and <hi>Diſcipline,</hi> which <hi>Plato</hi> calls the Bridle of Youth, curb<g ref="char:EOLhyphen"/>ing them in, and keeping them out of worſe Exerciſe and Em<g ref="char:EOLhyphen"/>ployments.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Muſt he, that will
+<pb n="51" facs="tcp:103434:35"/> haſten to TRUE INSTRUC<g ref="char:EOLhyphen"/>TION, needs take theſe here, or may he let them alone at his pleaſure?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>He need not, unleſs he will, there is no compulſion in the caſe. They are conve<g ref="char:EOLhyphen"/>nient, but not of any neceſſity to Virtue.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>No? Are they not neceſſary for the bettering of our Underſtandings?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Yes; but however our Goodneſs may encreaſe without them; yet are they not altogether uſeleſs. For as on occaſion we may underſtand what is ſaid by an Interpreter; tho' it would not be amiſs, if we underſtood the very Lan<g ref="char:EOLhyphen"/>guage our ſelves, however o<g ref="char:EOLhyphen"/>therwiſe we do apprehend the
+<pb n="52" facs="tcp:103434:36"/> matter: even ſo without theſe ſorts of Learning, nothing hin<g ref="char:EOLhyphen"/>ders, but we may attain unto Vertue.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>I, but doth not the underſtanding of theſe Arts and Sciences qualify and enable Men to have goodneſs better infus'd into them, than others, that have not theſe Diſciplines?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>No; how ſhould that be, when they have as bad a Notion of the True Nature of Good and Evil, and are as black with the pitchy touch of vi<g ref="char:EOLhyphen"/>ciouſneſs, as others? It is an eaſy thing, for one to be a pretty good Scholar, and Maſter of all the Arts, and for all that be a Sot; to be Lewd, Stingy, Inju<g ref="char:EOLhyphen"/>rious, Perfidious, and in ſhort, as meer an Idiot, as he that ne<g ref="char:EOLhyphen"/>ver
+<pb n="53" facs="tcp:103434:36"/> knew what belong'd to a School. Of ſuch there are nu<g ref="char:EOLhyphen"/>merous Inſtances and Examples; we need not go far to fetch them: and now then what Pre<g ref="char:EOLhyphen"/>rogative ſo great hath Learning in the Reformation of Men's Extravagancies?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why, none methinks, if things go thus. But why then are Scholars in the ſecond En<g ref="char:EOLhyphen"/>cloſure, as nearer neighbours to TRUE INSTRUCTION than the reſt?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Alas! what good do they get by that? When we may often behold many, that paſs out of the firſt Encloſure from INCONTINENCE, and the other train of <hi>Vices,</hi> unto TRUE INSTRUCTION, without once reſting amongſt theſe great
+<pb n="54" facs="tcp:103434:37"/> Scholars. What Man then can avouch their Eſtate better be<g ref="char:EOLhyphen"/>cauſe of the place? They are either more dull, or (at leaſt) more idle, than others.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Why, ſaid we, how comes that to paſs?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Becauſe, tho' thoſe of the ſecond Encloſure were clear from all faults elſe, yet this alone would ſtick by them for ever, to profeſs they know what they do not: which indeed is a great obſtacle and impediment to them in the acquiring of TRUE INSTRUC<g ref="char:EOLhyphen"/>TION. Again, do you not ſee, how the OPINIONS come thick and threefold out of the firſt Encloſure unto them? Theſe are the cauſes, why their con<g ref="char:EOLhyphen"/>dition is not a ruſh better than
+<pb n="55" facs="tcp:103434:37"/> the others, unleſs REPEN<g ref="char:EOLhyphen"/>TANCE and they fall once acquainted, and they be verily perſuaded, that they dwell not with TRUE INSTRUCTION, but with her Counterfeit, which leads them into ERROUR, and obſtructeth all the means of their Reformation, and Paſſage to SECURITY. Wherefore, my Friends, unleſs you take this courſe, and often meditate on my words, and alwaies keep in mind ſome of theſe Admoni<g ref="char:EOLhyphen"/>tions, I leave with you, all that I have ſaid will be in vain, and you'll not be a Farthing the better for the Expoſition of this Table.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Upon our Faith and honeſt Word, we'll do our very beſt; but Pray, Sir, do us the
+<pb n="56" facs="tcp:103434:38"/> favour, as to reſolve us this Queſtion; why are not the Gifts, that FORTUNE beſtow<g ref="char:EOLhyphen"/>eth upon Men, worthy to be ac<g ref="char:EOLhyphen"/>counted Goods? As <hi>Life, Health, Riches, Honours, Children, Suc<g ref="char:EOLhyphen"/>ceſs,</hi> and ſuch other her Boun<g ref="char:EOLhyphen"/>ties? And why are not their contraries Evils? This Aſſertion ſeems ſtrange, and almoſt incre<g ref="char:EOLhyphen"/>dible unto us.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Well, be ſure then, that you anſwer directly unto what I ſhall Propound.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>We will, Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>What think you? Whether is it good for him, that is an Evil Liver, to Live, or not?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>It is not good for him, in our opinion, to Live, but rather bad.</p>
+                        </sp>
+                        <pb n="57" facs="tcp:103434:38"/>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>How then can Life be a Good, if it be Bad for him?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Becauſe, as to a Bad Man Life is Bad, ſo to a Good Man Life is Good.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>So, then I find, you ſuppoſe Life to be both good and bad.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>So in good earneſt we do.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>O! mark, what you ſay; for, that one thing ſhould be both good and bad, implies a flat contradiction. For then at that rate, it would be both profitable and hurtful; and likewiſe alwaies to be lov'd and deſir'd, and hated and avoided at the ſame time.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>This is ſomething abſurd, we muſt confeſs. But
+<pb n="58" facs="tcp:103434:39"/> if he that liveth badly, have a badneſs by living ſo; how can Life but be bad unto that Man?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>I, but remember, that it is one thing to live, and an<g ref="char:EOLhyphen"/>other to live badly.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>That is true.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>So that LIFE is not bad in it ſelf. For were it ſo, it would be ſo to the beſt liver as well as to the worſt: for all would be poſſeſs'd of a LIFE, that would be badneſs in its very ſelf; and then <hi>Bad would be the Beſt.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Right in truth.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Well then LIFE be<g ref="char:EOLhyphen"/>ing communicated both to the good Liver and to the bad; to Live of it ſelf is neither good nor bad, no more than cutting or burning is; both which are
+<pb n="59" facs="tcp:103434:39"/> good in ſome Diſeaſes, but pre<g ref="char:EOLhyphen"/>judicial to all found Conſtitu<g ref="char:EOLhyphen"/>tions. Juſt ſo is this Life. And therefore put the caſe to your ſelves, whether had you rather live badly, or die honoura<g ref="char:EOLhyphen"/>bly?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>I'd make choice of the latter.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>So then <hi>Death</hi> in it ſelf is no bad thing belike, for it is oftentimes to be preferr'd before <hi>Life.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Right again.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Well then <hi>Health</hi> and <hi>Sickneſs</hi> have one and the ſame reſpect. For occaſion may ſo happen, that the ſick Man may not recover.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Not unlikely.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Weigh Riches then in the ſame Ballance; recollect
+<pb n="60" facs="tcp:103434:40"/> that, which we often ſee. A Man hath plenty of Riches, and puts them to no good uſe, but lives a <hi>Miſer.</hi> Not a few of this ſort.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>In troth, too many.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>So then his Riches don't augment his happineſs any way.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Not, in our Judgment, by reaſon of his own badneſs.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Therefore you ſee, 'tis not Riches, but <hi>good Inſtru<g ref="char:EOLhyphen"/>ction,</hi> that makes a Man both <hi>Good</hi> and <hi>Happy.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Surely ſo it ſeems.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>How then can Riches be good, when they have no Power to better thoſe, that en<g ref="char:EOLhyphen"/>joy them?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>They cannot be in<g ref="char:EOLhyphen"/>deed.</p>
+                        </sp>
+                        <sp>
+                           <pb n="61" facs="tcp:103434:40"/>
+                           <speaker>Expoſ.</speaker>
+                           <p>Well, then it is highly expedient, that ſome ſhould not be rich at all, becauſe they know not how to make a good uſe of Riches.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>In that we agree.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>How then can that be any way conducive to good<g ref="char:EOLhyphen"/>neſs, which oftentimes muſt be kept from the uſe of divers Perſons? So that he, that can uſe wealth, as wealth ſhould be us'd, may live well; and he that cannot, very ill.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>All you ſay is exceed<g ref="char:EOLhyphen"/>ing true, Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>In fine, it is the eſteem for thoſe, as goods, or the con<g ref="char:EOLhyphen"/>tempt of them, as evils, that moleſt and diſturb the thoughts of Man; when they that are <hi>vile Earth and</hi> MOR<g ref="char:EOLhyphen"/>TALITY,
+<pb n="62" facs="tcp:103434:41"/> prize them as things of ſuch excellent worth, and think, that their whole happi<g ref="char:EOLhyphen"/>neſs merely depends on them. This maketh them to undergo all actions, even of how black a dy ſoever. And theſe things happen unto all ſuch, as admire outward appearances, and can in no wiſe attain to the true knowledge of good; they are ſo blinded and overwhelm'd with IGNORANCE; neither have they learnt, that it is im<g ref="char:EOLhyphen"/>poſſible for good to be brought out of evil; and you may ſee very many, who have heap'd up Riches by evil means, and fil<g ref="char:EOLhyphen"/>thy deeds, ſuch as <hi>Treachery, Spoils, Manſlaughters, Calum<g ref="char:EOLhyphen"/>nies, Rapines,</hi> and other ſad and outragious <hi>Vices.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <pb n="63" facs="tcp:103434:41"/>
+                           <speaker>Strang.</speaker>
+                           <p>There is nothing to be objected againſt what you ſay, Worthy Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Exp.</speaker>
+                           <p>Well, obſerve but this, and I ſhall diſmiſs you preſent<g ref="char:EOLhyphen"/>ly. If ſo be no good can pro<g ref="char:EOLhyphen"/>ceed from that which is evil, (as not unlikely) and Riches may be gotten by vicious cour<g ref="char:EOLhyphen"/>ſes; it follows conſequently, that Riches cannot be accounted good.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>It is evidently mani<g ref="char:EOLhyphen"/>feſt from what you ſay.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Expoſ.</speaker>
+                           <p>Again, <hi>Wiſdom</hi> and Piety can never have their riſe from evil actions, neither on the contrary, can <hi>Vice</hi> or <hi>Folly</hi> pro<g ref="char:EOLhyphen"/>ceed from good actions; for theſe are in their very nature contraries; and ſo can never be conſiſtent one with the other.
+<pb n="64" facs="tcp:103434:42"/> But now <hi>Riches,</hi> and <hi>Honour,</hi> and <hi>Victory,</hi> and ſuch like may poſſibly be gotten by evil means, and nothing hinder. Wherefore let us determine them neither good nor bad of themſelves; for of a certain, <hi>Wiſdom</hi> is the only good, and <hi>Folly</hi> the only evil.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Strang.</speaker>
+                           <p>Now, Sir, we return you our hearty thanks for all your favours; and we will trou<g ref="char:EOLhyphen"/>ble you no longer: for what you have already acquainted us with gives us great ſatisfaction.</p>
+                        </sp>
+                        <trailer>The End of CEBES his TABLET.</trailer>
+                     </div>
+                  </body>
+               </text>
+               <text xml:lang="eng">
+                  <front>
+                     <div type="title_page">
+                        <pb facs="tcp:103434:42"/>
+                        <p>An Excellent TREATISE Concerning PEACE OF CONSCIENCE,</p>
+                        <p>Written by HIPPARCHUS, A <hi>Pythagorean Philoſopher.</hi>
+                        </p>
+                        <p>
+                           <hi>And Tranſlated into Engliſh</hi> By <hi>ROBERT WARREN,</hi> Student of CHRIST'S Col<g ref="char:EOLhyphen"/>lege in CAMBRIDGE.</p>
+                        <q>
+                           <p>Conſcia mens ut cuique ſua eſt, ita concipit intra Pectora pro Facto ſpemque metumque ſuo.</p>
+                           <bibl>
+                              <hi>Ovid.</hi> Lib. <hi>Faſtorum.</hi> 111.</bibl>
+                        </q>
+                     </div>
+                  </front>
+                  <body>
+                     <div type="treatise">
+                        <pb facs="tcp:103434:43"/>
+                        <pb n="67" facs="tcp:103434:43"/>
+                        <head>A TREATISE OF <hi>Peace of Conſcience.</hi>
+                        </head>
+                        <p>WHereas the Life of Man is very ſhort, if com<g ref="char:EOLhyphen"/>par'd with <hi>Eternity,</hi> Men would do very wiſely, to paſs it, as if in a pleaſant Journey or Pilgrimage, remembring that by doing ſo, they would make their lives both eaſy and happy; and the beſt and only means, to
+<pb n="68" facs="tcp:103434:44"/> attain to this Perfection, would be truly to know themſelves, and to conſider, that they are but <hi>vile duſt</hi> and <hi>aſhes;</hi> that they are created with a Body obnoxious, both to ſorrow, danger, and at laſt to <hi>death;</hi> and are expoſed to the worſt of calamities, even to their laſt gaſp of Breath.</p>
+                        <p>Now let us make a few Re<g ref="char:EOLhyphen"/>marks of thoſe Evils, which are the general attendants of this Body. As firſt, the <hi>Pleuriſy, Conſumption,</hi> the <hi>Phrenzy,</hi> the <hi>Gout,</hi> the <hi>Stone,</hi> the <hi>Bloody Flux,</hi> the <hi>Lethargy,</hi> the <hi>Falling-Sick<g ref="char:EOLhyphen"/>neſs, Putrifying Ulcers,</hi> and an infinite number of other <hi>Diſea<g ref="char:EOLhyphen"/>ſes.</hi> Theſe are all contingent to the Body. But the Mind is infeſted with much worſe Ma<g ref="char:EOLhyphen"/>ladies,
+<pb n="69" facs="tcp:103434:44"/> than any of theſe. For whatſoever <hi>Folly, Vice, Sin,</hi> or <hi>Impurity</hi> Men are actually guil<g ref="char:EOLhyphen"/>ty of, takes its Riſe from ſome Indiſpoſition of the Mind: ma<g ref="char:EOLhyphen"/>ny thro' immoderate and unna<g ref="char:EOLhyphen"/>tural Luſts, have broken out into notorious actions, and have even ſatisfy'd their brutiſh Ap<g ref="char:EOLhyphen"/>petites upon their Mothers or Daughters. How many Parents are there, that have cut their Childrens throats? Not to omit ſome Evils of a ſtrange and different ſort; as <hi>Deluges, Ex<g ref="char:EOLhyphen"/>tremity</hi> of <hi>Drought, Heat</hi> and <hi>Cold,</hi> ſo that ſometimes from the unſeaſonableneſs of the Air, the <hi>Plague, Famine</hi> and many dangerous Evils happen, and whole Cities are lay'd Deſolate. Since then we are in continual
+<pb n="70" facs="tcp:103434:45"/> dangers, and ſuch a many Evils hang over our heads, let us not truſt to the goods of the Body, which are preſently deſtroy'd by one fit of ſickneſs; neither let us be pufft up with outward Proſperity, ſince that it ſooner goes away than comes: for we are made ſenſible from the in<g ref="char:EOLhyphen"/>finite variety of ſtrange changes and alterations, which are daily wrought in the World, that there is no ſure, conſtant, cer<g ref="char:EOLhyphen"/>tain, or permanent Poſſeſſion in this tranſitory Life.</p>
+                        <p>Wherefore let us alwaies re<g ref="char:EOLhyphen"/>volve in our thoughts, that thoſe things, which we now are poſſeſs'd of, will endure but for a moment; and remember, that if we bear all things patiently and couragiouſly, we ſhall moſt
+<pb n="71" facs="tcp:103434:45"/> aſſuredly acquire that Rich and Noble Bleſſing, <hi>Serenity</hi> and PEACE of CON<g ref="char:EOLhyphen"/>SCIENCE. But now very many, who enjoy both the Gifts of Nature and Fortune, when they have ſuppos'd them very good, and have eſteem'd them better, than indeed they are, however they ſeem to be, being quickly depriv'd of them, are extreamly caſt down at their diſmal and almoſt inſupportable loſſes. And by this means it comes to paſs, that their whole Life is perfect Labour and Sor<g ref="char:EOLhyphen"/>row to them. Now the general cauſe and occaſion of this de<g ref="char:EOLhyphen"/>jection, is either loſs of Riches, or death of Children and Re<g ref="char:EOLhyphen"/>lations, or parting with our deareſt Poſſeſſions; then they
+<pb n="72" facs="tcp:103434:46"/> fall a howling and crying, and curſe the day of their Birth, and fooliſhly declare, that they only are the moſt unfortunate Wretches in the whole World. When alas! poor hearts, they do not conſider, what ſtorms of affliction Men in former times have waded through, neither have they the patience to make a few ſerious Reflections upon other Mens Lives; and to re<g ref="char:EOLhyphen"/>collect, what an infinite of loſſes others have had, and (which is much worſe) may now live in ſorrow and torment.</p>
+                        <p>Now would we but conſider, and believe, what Hiſtory gives us an exact Account of, how many have ſav'd their Carcaſſes for the bare loſs of their fading Riches, when it might have
+<pb n="73" facs="tcp:103434:46"/> been their Fortune to have light upon Tyrants or Highway<g ref="char:EOLhyphen"/>men: and how many again, who were formerly ador'd and ſought after by many fawning Courtiers; when once their Riches were gone, all the pre<g ref="char:EOLhyphen"/>tended Friendſhip dropt off; and prov'd downright hatred and contempt at the bottom. And how many have been murder'd by their Children and Relations, and all theſe Evils, and a great deal more, purely occaſion'd by flitting and frothy Treaſures? Now would we, I ſay, but compare our Lives with other Men's, who have far'd much worſe than our ſelves, and be willing to hold all human misfortunes in com<g ref="char:EOLhyphen"/>mon; (I warrant you) we ſhould
+<pb n="74" facs="tcp:103434:47"/> live much eaſier, and better to our content. For none indeed, who are true Men (and would gladly be thought ſo) ought to think other Men happy, and themſelves miſerable, other Men's Evils light and eaſy, and their own ſad and intolerable; when this Life, to the very Eye, is both bitter and miſerable. And now, beſides all this, Men's howling and outcries will avail nothing towards the Redeem<g ref="char:EOLhyphen"/>ing a loſt Eſtate, or the Reco<g ref="char:EOLhyphen"/>vering Life of one that is dead. They only add to their own miſery, and fooliſhly diſturb their Minds to no purpoſe. Wherefore we ought by all means to waſh and purge away theſe filthy blemiſhes by <hi>True Philoſophy.</hi> And this we may
+<pb n="75" facs="tcp:103434:47"/> eaſily do, if we will be prudent and temperate, and take all in good part; that is, be thankful for what we have, and covet no more. For they, who heap up ſuch an abundance of Riches, never conſider, that they are to meet with another Life elſe<g ref="char:EOLhyphen"/>where, after this is ended: for which they make no manner of preparation; but rather beſtow all their Labour and Endeavours to provide for a Life of a few moments, to their extream ha<g ref="char:EOLhyphen"/>zard and ſhame. But becauſe theſe things will be no other<g ref="char:EOLhyphen"/>wiſe, let us, who know better things, let us, I ſay, live wiſely, and make much of what we have; earneſtly contending for the <hi>Saving Philoſophy,</hi> which will free our Minds, and take
+<pb n="76" facs="tcp:103434:48"/> off our roving thoughts from all inordinate Love of this wicked World; and eſpecially of thoſe things, which are infamous and deſtructive to us.</p>
+                        <p>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</p>
+                        <trailer>THE END.</trailer>
+                     </div>
+                  </body>
+               </text>
+            </group>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="title_page">
+                  <pb facs="tcp:103434:48"/>
+                  <head>APELLES HIS TABLE Being <hi>A PICTURE</hi> of <hi>humane Life</hi> Now Rendred into <hi>Engliſh.</hi>
+                  </head>
+                  <q>
+                     <l>Omne tulit punctum, qui miſcuit utile dulci</l>
+                     <l>Lectorem delectando pariterque monendo.</l>
+                     <bibl>
+                        <hi>Horatius de Arte Poetica,</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div type="description_of_picture">
+                  <pb facs="tcp:103434:49"/>
+                  <pb n="79" facs="tcp:103434:49"/>
+                  <head>APELLES HIS <hi>Firſt PICTURE.</hi>
+                  </head>
+                  <p>THere was a <hi>ſpacious</hi> Gar<g ref="char:EOLhyphen"/>den with a very pleaſant Arbour in it, all as Beau<g ref="char:EOLhyphen"/>tifull with Walks, Flowers, Herbs, Trees, and the like, as Heart can wiſh, or Fancy can imagine. On the right Hand, there was a great Gate for the chief Entrance, the Way and Paſſage being all along extream<g ref="char:EOLhyphen"/>ly
+<pb n="80" facs="tcp:103434:50"/> delectable, beſet with fine tall Trees on each ſide, where<g ref="char:EOLhyphen"/>on were curious and wonder<g ref="char:EOLhyphen"/>full Birds, Chirping, Dancing, and Carolling, as it were to invite Paſſengers to this their <hi>Earthly Paradiſe.</hi> And indeed the Way was all full of People of all ſorts, Ages, and Sexes; who throng<g ref="char:EOLhyphen"/>ing from all parts were haſting thitherward. On the left Hand of the ſaid Garden, was a leſſer Door, or Wicket, which ſeem'd only contriv'd for a Paſſage out of the Garden now and then; for as there was no Manner of Path to it on the one ſide, ſo there was but a very ſmall Paſſage toward it on the Inſide, and that in a manner unfrequented, and therefore much overgrown with Thorns, Buſhes and Bram<g ref="char:EOLhyphen"/>bles.</p>
+                  <pb n="81" facs="tcp:103434:50"/>
+                  <p>But before the firſt Gate on the right Hand there were good<g ref="char:EOLhyphen"/>ly Tents erected, with delight<g ref="char:EOLhyphen"/>full Seats and Lodgings; there were alſo large, and fair Tables ſpread, ready furniſh'd with all ſorts of viands, neceſſary for the Life of Man, diſpoſed in very good order, and all Comers were freely welcome to ſit down, where they Banquetted very jocundly.</p>
+                  <p>The <hi>Lady Hoſteſs</hi> or <hi>Miſtreſs</hi> of the place called her ſelf <hi>Sobriety,</hi> who had her <hi>Chamber-Maids</hi> waiting about her with all diligence and in exceeding good order. One was <hi>Cheer<g ref="char:EOLhyphen"/>fulneſs,</hi> the other <hi>Modeſty,</hi> the third <hi>Honeſty,</hi> and the fourth <hi>Temperance.</hi> They were aſſiſted with three Lovely Siſters, who
+<pb n="82" facs="tcp:103434:51"/> were call'd the <hi>Graces.</hi> Some other Servants or Attendants there were, as <hi>Induſtry, Honeſty, Labour, Frugality, Health,</hi> and <hi>Good-Humour,</hi> who were all of <hi>Sobriety's</hi> Houſhold in this Place of Pleaſure; where while ſome refreſh'd themſelves with Eating and Drinking, others were walking or wreſtl<g ref="char:EOLhyphen"/>ing, or conferring together, or ſpending their time in Reading, or Writing, or Working on ſome eaſy and honeſt Work, or playing on Muſical Inſtruments, while others ſang ſweet and chaſt Songs unto them. And all this was done without any the leaſt diſorder, debate, or diſcon<g ref="char:EOLhyphen"/>tentment. In ſhort, they had among them all kinds of Decent Paſtime both to exerciſe and to
+<pb n="83" facs="tcp:103434:51"/> recreate their minds and bodies, as well before, as after, this Re<g ref="char:EOLhyphen"/>paſt, as was Judg'd moſt re<g ref="char:EOLhyphen"/>quiſite for the maintenance and ſupport of Health. After a ſufficient Refection one part of them retir'd homeward very merrily and in good order having firſt thanked, and taken leave of their <hi>Lady Hoſteſs, Madam Sobriety.</hi>
+                  </p>
+                  <p>But the reſt, that remained, being a far greater number, not content with the good Fare and Paſtime, they had recieved in this Place, would needs paſs on farther, and entred into the Garden at the great Gate with<g ref="char:EOLhyphen"/>out taking the leaſt notice of their firſt. <hi>Hoſteſs Sobriety,</hi> or yielding Her any Thankfull Requital.</p>
+                  <pb n="84" facs="tcp:103434:52"/>
+                  <p>Here, at the Entrance of the Arbour there ſat a Woman gazing about her on all ſides, being very groſs and fat, her Cheeks ſwoln and puffed up, her Lips blubberly and red, and her Face like a <hi>Platter.</hi> However ſhe ſhewed her ſelf very ſerviceable, calling to the new Comers, making unto then courteous ſigns with her Head, and ſhewing them with both her Hands the Entrance. Her Name was, it ſeems, <hi>Gourmondiſe,</hi> or <hi>Gluttony.</hi>
+                  </p>
+                  <p>In the midſt of this Arbour ſat another Woman, dreſs'd like a Queen, and indeed ſhe go<g ref="char:EOLhyphen"/>vern'd there, and was chief <hi>Lady</hi> of the Lodging, but ſhe was drunk, having a Crown of young Vine-Sprouts on her
+<pb n="85" facs="tcp:103434:52"/> Head, and a great Cup in both her Hands, as one that was al<g ref="char:EOLhyphen"/>ways ready to drink, for her Name was <hi>Drunkenneſs.</hi> She alſo had her <hi>Ladies</hi> and Waiting-Maids attending on her every one with a Cup in her Hand, and one with wilder looks then the other, ſtill looking wilder and wilder, as they ſtood behind the firſt; Whoſe Name was <hi>Merriment;</hi> next to her was <hi>Heedleſsneſs,</hi> then <hi>Vanity,</hi> then <hi>Folly,</hi> then <hi>Luxury,</hi> then <hi>Revel<g ref="char:EOLhyphen"/>ling</hi> and <hi>Exceſs,</hi> and laſtly <hi>Mad<g ref="char:EOLhyphen"/>neſs;</hi> all of them in Garments ſuitable to their Conditions.</p>
+                  <p>There were divers other At<g ref="char:EOLhyphen"/>tendants, as <hi>Forgetfulneſs,</hi> who ſtood in manner of one Aſto<g ref="char:EOLhyphen"/>niſh'd; <hi>Slothfulneſs</hi> ſat on the Ground with her Arms folded,
+<pb n="86" facs="tcp:103434:53"/> her Siſter <hi>Idleneſs</hi> and her Daughter <hi>Careleſsneſs</hi> lying half naked and aſleep by her. She her ſelf was ſcarce dreſs'd and hardly well awake; yet ſhe held in her Hand a Cup of Wine, but ſo neglectfully as that ſhe ſpilled much on the Ground. Hard by was <hi>Scurrility</hi> and <hi>Scoffing</hi> with <hi>Taunting</hi> their Brother, and <hi>Brabling</hi> their Siſter, who took her Kinſman <hi>Debate</hi> by the Hand, and they all ſat cloſely together, tho' in no quiet but boiſterous manner, conferring and carouſing with <hi>Infamy, Rage,</hi> and <hi>Fury;</hi> who had ter<g ref="char:EOLhyphen"/>rible Looks and fiery Faces. In a cloſe corner there was the Queen's Daughter <hi>Intemperance,</hi> dallying and wantoning with her own Brother <hi>Luſt,</hi> her Gent<g ref="char:EOLhyphen"/>lewomen
+<pb n="87" facs="tcp:103434:53"/> 
+                     <hi>Immodeſty</hi> and <hi>Shame<g ref="char:EOLhyphen"/>leſsneſs</hi> ſtanding by and looking on.</p>
+                  <p>This comely company were in a manner hedg'd about with a ſtrong Guard of <hi>Bears, Bulls, Goats,</hi> great <hi>Aſſes, Horſes,</hi> huge <hi>Maſtives, Wolves, Swine, Hares, Bucks, Apes, Baboons, Mar<g ref="char:EOLhyphen"/>moſets, Monkeys,</hi> and <hi>Satyrs,</hi> and other kind of <hi>Beaſts,</hi> that it ſeems had formerly all been Men, but after long tarrying with the <hi>Queen,</hi> and drinking too liberal Draughts of her Wine, had been metamorphos'd and changed into ſuch Crea<g ref="char:EOLhyphen"/>tures. But verily it was an hor<g ref="char:EOLhyphen"/>rour to behold their Countenan<g ref="char:EOLhyphen"/>ces; how terrible, and fiery, and to obſerve, what a diſmal life they lead, crying and howling
+<pb n="88" facs="tcp:103434:54"/> and roaring together with a moſt diſcordant Harmony; for by the claſhing of their Teeth, the ſhaking of their Chains, and the gaping of their Throats, their <hi>Picture</hi> ſeem'd to affect the Ear as well as the Eye.</p>
+                  <p>On one ſide you might ſee ſome of theſe Beaſts diſcharging their Stomachs of Wine, wich thoſe, that were turn'd into Dogs, immediately lick'd up again. The <hi>Swine</hi> wallow'd in filthy Puddles and mire, vomiting up horrible <hi>Serpents</hi> and <hi>Lizzards.</hi> The <hi>Bulls</hi> and <hi>Kine</hi> caſt up <hi>Frogs</hi> and <hi>Flyes;</hi> the <hi>Bucks Pearles,</hi> the <hi>Aſſes Books,</hi> the <hi>Bears Swords</hi> and <hi>Hangers;</hi> the <hi>Wolves Cats, Mice,</hi> and <hi>Rats;</hi> But the <hi>Apes, Marmoſets,</hi> and <hi>Satyrs</hi> skipped and frisked and
+<pb n="89" facs="tcp:103434:54"/> danced about very pleaſantly. On the contrary the <hi>Bears</hi> and <hi>Wolves</hi> bit and fought very cruelly, one againſt the other; ſo that a great deal of Fur was ſcatter'd on the Ground, and here an Ear, and there a piece of a Taile, and Teeth, and Hornes; and Blood ran all about.</p>
+                  <p>On the left Hand, towards the little <hi>Wicket,</hi> which we ob<g ref="char:EOLhyphen"/>ſerv'd to be a place in a manner unfrequented; there lay at a good diſtance the Bodies of Beaſts ſtretch'd out along, ſlee<g ref="char:EOLhyphen"/>ping, as it ſeem'd, very ſoundly, tho' in their own dung and vo<g ref="char:EOLhyphen"/>miting. All were wounded with Wine, but many had other hurts, and there they lay heaped one on another, like a Pile of dead Bodies. Yet ſome now and
+<pb n="90" facs="tcp:103434:55"/> then made ſhift to riſe up, though faintly, after they had, I ſuppoſe, digeſted their Wine, and immediately return'd to their former behaviour, having ſtill on them the skins of ſalvage Beaſts. Others finding themſelves well wearied with theſe im<g ref="char:EOLhyphen"/>moderate Entertainments, went ſtaggering forth of the Arbour, ſeeking to get away by the nar<g ref="char:EOLhyphen"/>row Paſſage; but many of theſe at their returning were found hurt and lame of the Limbs, ſome being only half Men and half Beaſts, as <hi>Mermen, Centaurs, Sa<g ref="char:EOLhyphen"/>tyrs</hi> and <hi>Savages.</hi> Theſe, being with much a doe gotten by de<g ref="char:EOLhyphen"/>grees out of the little Door, met there with certain old rough and tough Fellows, who came towards them with Chains, and
+<pb n="91" facs="tcp:103434:55"/> Shackles, wherewith they bound them Hand and Foot, and afterward beat them, very ſoundly. If any one offer'd to re<g ref="char:EOLhyphen"/>bell, they gave him many ſevere blows with a <hi>Baſtinado,</hi> and they hardly ſuffer'd any to eſcape them, without making ſome account of this Nature with them.</p>
+                  <p>The moſt dangerous old Fel<g ref="char:EOLhyphen"/>low of all, who gave the greateſt blows, and indeed was moſt cruel, was call'd the <hi>Gout,</hi> cloth<g ref="char:EOLhyphen"/>ed indeed in Silk and Sattin, but of an ill-favour'd ſhape and very hideous to behold. His Limbs were lank and looſe, his Joynts groſs, his Legs ſwell'd, his Face bloached, and his Hands and Fingers full of great Nodes and Crooked. The next to him
+<pb n="92" facs="tcp:103434:56"/> had a Countenance partly pale, and partly red as any Fire; and his Name was <hi>Feaver-Ague.</hi> The Third was <hi>Dropſy,</hi> very hugely ſwoln with a Colour like Lead and Sulphur; and he was alſo a ſhrewd ſmiter, and tor<g ref="char:EOLhyphen"/>mented very cruelly. For in ſome he blew their Bellies like Blad<g ref="char:EOLhyphen"/>ders, 'till they were hard and diſtended like Drums; others Legs he puff'd up; others their Breaſt and Face; and others their whole Body, till he had brought them to ſuch a condition, that they could never be ſatisfy'd with Drink, but, the more they drank, they were ſtill the more thirſty and inſatiable. Hard at his Heels follow'd the <hi>Palſy,</hi> who ſeem'd to be wholly Impo<g ref="char:EOLhyphen"/>tent, and that he had not any
+<pb n="93" facs="tcp:103434:56"/> Nerves or Sinews, that were not utterly broken; but for all that, ſuch as he could once lay hold on, he made them ſure, rendring them quite Numb and Dead in half their Body, or crook<g ref="char:EOLhyphen"/>ed and bent in the middle, or weak and helpleſs and ſhaking in all their parts. Next him there was <hi>Apoplexy,</hi> or the <hi>Dead-Palſy,</hi> who took ſome ſtrictly by the collar, and ſo beat them about the Head, that they re<g ref="char:EOLhyphen"/>main'd as dead without any un<g ref="char:EOLhyphen"/>derſtanding or moving; and ſome indeed with two or three Knocks he killed outright. A<g ref="char:EOLhyphen"/>mong theſe were the <hi>Itch</hi> and <hi>Scab,</hi> follow'd by their <hi>Siſter Leproſy,</hi> who ſo handled theſe poor Creatures, that their Bo<g ref="char:EOLhyphen"/>dies became like an hard cruſt,
+<pb n="94" facs="tcp:103434:57"/> their Faces being adorn'd with goodly Sapphires. But their Noſes coſt more in Painting, than if they had been limn'd in <hi>Gold,</hi> or <hi>Silver;</hi> for they were all cover'd over with rich <hi>Car<g ref="char:EOLhyphen"/>buncles.</hi> And yet for all they were ſo handled by theſe old Fellows, they could not forbear quarrelling among themſelves; for they fell a tugging and lugging one another by the Ears, and fought ſo cruelly, that you might eaſily gueſs few of them would be left alive. Thus grew a great number of Diſeaſes among Men at firſt, which being entred into the Blood and Mar<g ref="char:EOLhyphen"/>row, came propagated down to late Poſterity; but all of them had their Original from <hi>Intem<g ref="char:EOLhyphen"/>perance.</hi> But we muſt not forget
+<pb n="95" facs="tcp:103434:57"/> the <hi>Falling-ſickneſs,</hi> who lay all along beating his Head againſt the Ground, and upon the hard Stones, that many times it brake, that the Bloud guſhed out; he foaming at the Mouth all the while like an angry Boar. But wo to him, whom he could faſten on; For he would fling him down, and then fall upon him, and never leave, till he had made him in as bad a caſe as him<g ref="char:EOLhyphen"/>ſelf. Yet he was not ſo cruel, as his Kinſman <hi>Apoplexy;</hi> for al<g ref="char:EOLhyphen"/>tho' he took away all underſtan<g ref="char:EOLhyphen"/>ding, yet he left ſome Motions and Signs of Life. There was al<g ref="char:EOLhyphen"/>ſo <hi>Catarrhe,</hi> or <hi>Rheumatiſm,</hi> who continually aim'd at the Head and Eyes, and Cheſt; he had a groſs Head himſelf, ſo heavy, (to ones Eye) and
+<pb n="96" facs="tcp:103434:58"/> withal ſo <hi>ſleepy,</hi> as if he could hardly ſupport himſelf. His <hi>Gorge</hi> was like a Sink; ever Bilch<g ref="char:EOLhyphen"/>ing forth unſavoury fumes; his Eyes always ſore; his Noſe like a <hi>Limbeck</hi> continually Di<g ref="char:EOLhyphen"/>ſtilling; but not Roſewater, you may ſwear; for it was plainly <hi>Glaunders</hi> and <hi>Snivel,</hi> which to<g ref="char:EOLhyphen"/>gether with large quantitys of Water, that came forth of his Head, as if ſufficient to quench the heat of Wine, gave a ſmell, that annoy'd all; but almoſt ſtifled them, that were near. Among all theſe old Wretches, there was one, that had well nigh <hi>five thouſand</hi> Pieces and Patches on his Garment, and yet himſelf in a manner naked and barefoot; his Face was cover'd very thick with Dirt and
+<pb n="97" facs="tcp:103434:58"/> Filth, and he look'd very mea<g ref="char:EOLhyphen"/>ger and hideous, which made all the Reſt, ſeeing him ſo like a poor ſnake, and even unwor<g ref="char:EOLhyphen"/>thy to hold rank with them, to beat and bruiſe him, 'till the Blood iſſued forth. Only <hi>Head<g ref="char:EOLhyphen"/>ach,</hi> and <hi>Naſtineſs,</hi> and <hi>Low<g ref="char:EOLhyphen"/>ſineſs</hi> were content to keep him company. This very <hi>Picture</hi> of <hi>Miſery</hi> was called <hi>Po<g ref="char:EOLhyphen"/>verty.</hi>
+                  </p>
+                  <p>Laſt of all <hi>came old decrepit Age</hi> with a <hi>Staff</hi> in his Hand and mounted in a <hi>Chariot</hi> made all of dead Men's bones, with his Neighbour <hi>Death</hi> ſitting in Triumph over him. The <hi>Cha<g ref="char:EOLhyphen"/>riot</hi> Wheels went over both Young and Old, breaking them in pieces, as it went a long.</p>
+                  <p>And this is the Subſtance of
+<pb n="98" facs="tcp:103434:59"/> this <hi>Picture</hi> of <hi>Apelles,</hi> wherein that <hi>Ingenious Painter</hi> gives us a lively and graphical Deſcripti<g ref="char:EOLhyphen"/>on of <hi>Sobriety,</hi> and <hi>Drunkenneſs,</hi> ſetting forth apparently, to eve<g ref="char:EOLhyphen"/>ry Eye, both the Good and Evil, that happens to Men, as they chuſe either this or that.</p>
+                  <trailer>The END of the firſt TABLE.</trailer>
+               </div>
+               <div type="title_page">
+                  <pb facs="tcp:103434:59"/>
+                  <p>ENVY Unmask'd And INNOCENCY Rewarded.</p>
+                  <p>An Excellent Example To all KINGS, and MA<g ref="char:EOLhyphen"/>GISTRATES.</p>
+                  <p>Being A PREFACE to the following <hi>PICT<g ref="char:V">Ʋ</g>RE.</hi>
+                  </p>
+               </div>
+               <div type="preface_to_description_of_picture">
+                  <pb facs="tcp:103434:60"/>
+                  <pb n="101" facs="tcp:103434:60"/>
+                  <head>ENVY Unmask'd And INNOCENCY Rewarded.</head>
+                  <p>KING <hi>Ptolemy,</hi> the Son of <hi>Lagus,</hi> had a Lieute<g ref="char:EOLhyphen"/>nant named <hi>Theodotas</hi> whom he ſet over <hi>Phoenicia;</hi> this Man entred into a conſpi<g ref="char:EOLhyphen"/>racy againſt his <hi>Lord</hi> and <hi>Maſter</hi> in <hi>Tyre;</hi> ſo that the <hi>City</hi> and Iſland revolted from <hi>Ptolemy</hi> and <hi>Peluſium,</hi> which was the Key of <hi>Egypt</hi> on the ſide of <hi>Syria,</hi> was betray'd. At this jun<g ref="char:EOLhyphen"/>cture
+<pb n="102" facs="tcp:103434:61"/> one <hi>Antiphilus</hi> a Villai<g ref="char:EOLhyphen"/>nous Raſcal, a <hi>Painter,</hi> who envy'd <hi>Apelles</hi> mortally for his greater Skill and Favour with <hi>King Ptolemy,</hi> took occaſion privately to go to the <hi>King,</hi> and to tell him, as a great Secret, that he underſtood for certain the Author and chief Adviſer of this whole Treaſon, that it was <hi>Apel<g ref="char:EOLhyphen"/>les,</hi> who was a ſworn Creature of <hi>Theodotas,</hi> the Prince of the <hi>Faction,</hi> with whom he was often ſeen in great familiarity at <hi>Tyre;</hi> that particularly the Day before the Treaſon broke out, he was publickly at Din<g ref="char:EOLhyphen"/>ner with him, often whiſper<g ref="char:EOLhyphen"/>ing in his Ear at Dinner Time. That immediately thereupon <hi>Tyre</hi> revolted from the <hi>King,</hi> and <hi>Peluſium</hi> was ſurpriz'd all
+<pb n="103" facs="tcp:103434:61"/> by the Advice and Artifice of <hi>Apelles.</hi> Now <hi>King Ptolemy,</hi> as he was always very haſty, being accuſtom'd to <hi>Flattery,</hi> which blinds the Judgment of Princes, and puffs them up, took fire im<g ref="char:EOLhyphen"/>mediately at this, and exclaim'd on <hi>Apelles,</hi> calling him a perfi<g ref="char:EOLhyphen"/>dious and ungrateful <hi>Traytor,</hi> and vow'd his Death without mercy. And had there not been among the <hi>Conſpirators,</hi> who were taken, a Man, who diſ<g ref="char:EOLhyphen"/>dain'd the foul villany of <hi>An<g ref="char:EOLhyphen"/>tiphilus,</hi> and juſtify'd the in<g ref="char:EOLhyphen"/>jur'd Innocency of <hi>Apelles,</hi> he had without doubt, loſt his Head immediately. But the Man made it appear to the <hi>King,</hi> that <hi>Apelles</hi> was never by any Man ſeen at <hi>Tyre,</hi> that he had no Manner of Acquaintance,
+<pb n="104" facs="tcp:103434:62"/> with <hi>Theodotas,</hi> and that all this was but a malicious Slander of a Pitiful Raſcally <hi>Painter,</hi> who envy'd the Glory of <hi>Apelles.</hi> Thus the <hi>King</hi> was cur'd of his <hi>Jealouſy;</hi> he gave <hi>Apelles</hi> an hundred Talents of Gold to at<g ref="char:EOLhyphen"/>tone for the Injury he had done him by his <hi>Credulity,</hi> and with<g ref="char:EOLhyphen"/>all gave him <hi>Antiphilus</hi> for his <hi>Slave,</hi> to do with him as he would, either as to <hi>Life,</hi> or <hi>Death.</hi> To him <hi>Apelles</hi> did no harm, but in Memory of his great Danger, and to warn others of the Nature of <hi>Detraction,</hi> he Drew and preſented to the <hi>King</hi> this following <hi>Picture.</hi>
+                  </p>
+               </div>
+               <div type="description_of_picture">
+                  <pb n="105" facs="tcp:103434:62"/>
+                  <head>APPELLES HIS PICTURE OF CALUMNY.</head>
+                  <p>ON the right Hand ſits a Man having huge large Ears, very little different from thoſe of <hi>King Midas,</hi> reaching forth his Hand to a <hi>Lady,</hi> as yet a good way off, but coming towards him. A<g ref="char:EOLhyphen"/>bout him ſtand two Women, <hi>Ignorance,</hi> as it ſhould ſeem, and
+<pb n="106" facs="tcp:103434:63"/> 
+                     <hi>Suſpition.</hi> On the other ſide, the <hi>Lady</hi> aforemention'd comes for<g ref="char:EOLhyphen"/>ward apace; a Woman exceed<g ref="char:EOLhyphen"/>ing fair, and well dreſs'd, but ſomething chaſed and ſtirred up, as expreſſing Rage and An<g ref="char:EOLhyphen"/>ger, having in her left Hand a burning Fire-Brand, and with the other, dragging a young Man by the Hair of the Head, who held up his Hands to <hi>Heaven,</hi> calling <hi>God,</hi> to witneſs. There goes before her a Man pale and ill favour'd, looking as if he reſolv'd to find fault, very ſeverely, and like thoſe that are almoſt pin'd away with long ſickneſs. One would gueſs this to be <hi>Envy,</hi> as the <hi>Lady,</hi> that came after him was <hi>Calumny,</hi> who dragg'd <hi>Innocence</hi> before, the <hi>Throne</hi> of <hi>Credulity.</hi> But yet
+<pb n="107" facs="tcp:103434:63"/> there were two other Women, accompanying <hi>Calumny,</hi> who were continually egging her on, dreſſing and adorning her; and theſe, as I was inform'd by him that explain'd the <hi>Picture,</hi> were the one <hi>Conſpiracy</hi> and the other <hi>Treachery.</hi> But behind them all there came a <hi>miſerable, dejected, lamenting</hi> Woman, all com<g ref="char:EOLhyphen"/>pos'd to <hi>ſorrow,</hi> and clad in black, and her Name was <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> who looking back with <hi>Tears</hi> and <hi>Shame,</hi> recieved <hi>Truth,</hi> that juſt then came unto her.</p>
+                  <p>Thus far APELLES his <hi>Picture</hi> of <hi>Calumny,</hi> or <hi>Detraction.</hi>
+                  </p>
+                  <q>
+                     <p>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</p>
+                     <bibl>Heſiod</bibl>
+                  </q>
+               </div>
+               <div type="analysis_of_picture">
+                  <pb n="108" facs="tcp:103434:64"/>
+                  <head>The MORAL of APELLES HIS PICTURE.</head>
+                  <p>COncerning this Picture of Apelles, we muſt firſt con<g ref="char:EOLhyphen"/>ſider, that it expreſſeth two ſe<g ref="char:EOLhyphen"/>veral kinds of life, and two man<g ref="char:EOLhyphen"/>ners of living which are among Men. That is to ſay, the one, of Abſtinence and Sobriety; the other of Gourmandiſe, Glut<g ref="char:EOLhyphen"/>tony, and Drunkenneſs. The firſt is reputed neceſſary for all Men; for, as we cannot live without eating and drinking, conſider<g ref="char:EOLhyphen"/>ing we are not Angels, but Mor<g ref="char:EOLhyphen"/>tal
+<pb n="109" facs="tcp:103434:64"/> Men, even ſo as needful is it to govern our life by the rule of Sobriety. Therefore we ſhould all enter into the Houſe of Sobriety, without deſiring to paſs any further: for we live not to eat, but eat to live. And becauſe taſting is one of the ſences, which we have moſt in common with other Crea<g ref="char:EOLhyphen"/>tures, it is very requiſite, that Man ſhould moderate and tem<g ref="char:EOLhyphen"/>per the ſame, both by Abſtinence and Sobriety, as alſo reaſon which is only given him; if he will not ſhew himſelf to be a beaſt, but that which is more than a beaſt. For this cauſe, <hi>Apel<g ref="char:EOLhyphen"/>les</hi> figured the dwelling of <hi>So<g ref="char:EOLhyphen"/>briety,</hi> without the Garden or Orchard, to let us underſtand thereby, that we are not <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> paſs
+<pb n="110" facs="tcp:103434:65"/> any further to venture on ex<g ref="char:EOLhyphen"/>ceſs; but to reſt contented with receiving our refection honeſtly, for ſatisfying the neceſſities of Nature. In like manner, he gave no other abiding to <hi>So<g ref="char:EOLhyphen"/>briety</hi> than Tents, Pavilions, and Tabernacles, to ſignifie, that we ſhould make no long Sitting at the Table, no more than Paſ<g ref="char:EOLhyphen"/>ſengers do in their Inns; who enter not to remain there al<g ref="char:EOLhyphen"/>waies, but only to content na<g ref="char:EOLhyphen"/>ture, and then to paſs on upon their Journey.</p>
+                  <p>If <hi>Apelles,</hi> who was no other than a Pagan, could take know<g ref="char:EOLhyphen"/>ledge hereof: much more ought we to conſider the ſame than he, conſidering, that we have the teſtimony of the holy Scripture, which admoniſheth us, that we
+<pb n="111" facs="tcp:103434:65"/> have here no permanent City, that we dwell in this body, as in a Tabernacle, untill ſuch time as it ſhall pleaſe the Lord, that gave us ſuch lodging, to diſlodge us hence. I think alſo, that Moſes gave us admoniſhment herein, by the Feaſt of Tabernacles, and the life which the ancient Iſrae<g ref="char:EOLhyphen"/>lites led in the Wilderneſs. Be<g ref="char:EOLhyphen"/>cauſe our life is ſo ſhort, and as we feed but to lengthen and con<g ref="char:EOLhyphen"/>tinue the ſame, we ſhould there<g ref="char:EOLhyphen"/>fore be fearful of diminiſhing and curtaling our time, in ſpend<g ref="char:EOLhyphen"/>ing the moſt part of our time at the Table, where many cracks and flaws are made by exceſs.</p>
+                  <p>Therefore they may well be counted wiſe, and worthy to bear the Name of Man, that would go on no further: but return'd
+<pb n="112" facs="tcp:103434:66"/> honeſtly to their own affairs, after they had ſoberly received their ſuſtenance.</p>
+                  <p>By the Sports, Paſtimes, and Muſick, and Songs, which were exerciſed in this Meadow of <hi>So<g ref="char:EOLhyphen"/>briety,</hi> I think he purpoſed to demonſtrate, that the life of Man hath ſome honeſt Pleaſures and Recreations allowed it. For God doth not prohibit us to uſe ſuch good gifts, as he hath be<g ref="char:EOLhyphen"/>ſtowed on us, living in moderate joy, when the time ſo requireth. It is written: That there is a time to laugh, and a time to mourn, a time for joy, and a time for ſadneſs. And therefore a Chriſtian Man may learn to uſe both the one and the other well, and all to the glory of God.</p>
+                  <pb n="113" facs="tcp:103434:66"/>
+                  <p>Moſt certain it is, that God hath permitted us honeſt Plea<g ref="char:EOLhyphen"/>ſures and delight, which he hath not forbidden, or are to his dishonour, or any occaſion of evil. All honeſt and vertuous Exerciſe are permitted unto us, in rendring thanks to God for<g ref="char:EOLhyphen"/>them, and acknowledging his benifits by them, provided alſo, that we keep our ſelves alwaies within the rules of <hi>Sobriety, Modeſty,</hi> and <hi>Honeſty.</hi> Thus we ſee one manner of Life, and that which moſt conveniently beſeemeth man.</p>
+                  <p>The other is more brutiſh, than humane, the ſence and deſcription whereof taketh it ſelf thus. Firſt, for the large and common beaten way, where<g ref="char:EOLhyphen"/>by men entred into the Garden,
+<pb n="114" facs="tcp:103434:67"/> and concerning the unbridled multitude that made uſe thereof; I muſt underſtand his Meaning thus, that every Man affecteth <hi>eaſe, idleneſs</hi> and voluptuous <hi>Pleaſures.</hi>
+                  </p>
+                  <p>Some knew how to give a Mean to their deſires, and took not ſo much Meat and Wine as ſhould trouble their underſtand<g ref="char:EOLhyphen"/>ings: but could well return to their ordinary buſineſſes and uſe Reaſon in all things. Now, there were others that knew not any Mean or Meaſure, neither had regard to Time or Place; but would needs venture further, and fell into ſuch extremity of folly, as they loſt their ſenſes, underſtanding and memory. So that thereby they became <hi>brute beaſts,</hi> and could no way retire
+<pb n="115" facs="tcp:103434:67"/> from this diſorderly battel; till <hi>diſeaſes, poverty,</hi> and <hi>neceſſity</hi> admoniſhed them of their duty. For they are the laſt Com<g ref="char:EOLhyphen"/>panions of Drunkenneſs and Wayes of all Carowſers, that do her the greateſt Honour.</p>
+                  <p>By Handmaids or Waiting-Women to Drunkenneſs, I underſtand thoſe ſeveral vices, as their apt Names do ſignify; and they are the meeteſt for her Company. And by the Drinks, which ſhe gave to her. Quaffers, he meaneth the venom and poy<g ref="char:EOLhyphen"/>ſon of voluptuous exceſs, which maketh ſuch a Tranſport of mens Underſtandings, that they grow like unto brute beaſt, ac<g ref="char:EOLhyphen"/>cording as they take leſs or more, and according to the complections they are of; re<g ref="char:EOLhyphen"/>preſenting
+<pb n="116" facs="tcp:103434:68"/> even thoſe very beaſts, whoſe Nature and Man<g ref="char:EOLhyphen"/>ners they cone neareſt unto; and refuſing all friendly counſell and advice, do delight more in ſuch barbarous and uncivil courſes, than any other manners that ſhould ſhew them to be Men.</p>
+               </div>
+            </body>
+         </text>
+      </group>
+      <back>
+         <div type="conclusion">
+            <pb n="117" facs="tcp:103434:68"/>
+            <head>The CONCLUSION. An <hi>Admonition concerning the Shortneſs of Life.</hi>
+            </head>
+            <p>MAny men complain that Nature is very unkind to them in allotting them ſo little time to live, and often cry out, that no ſooner are they born, but they muſt die, before they can take their full Draught of the Pleaſures of this Life. Neither is this the complaint of the Illiterate and Vulgar ſort of People only, but even of the
+<pb n="118" facs="tcp:103434:69"/> moſt Valiant and Learned Men. We not often meet with any that are deſirous to relinquiſh the enjoyments of this Life, and to enter upon another ſtate, But too many that cry out with <hi>Ariſtotele,</hi> Life is ſhort, but Art is long. We find many bemoan<g ref="char:EOLhyphen"/>ing their condition with ſighs and tears, and ſuch diſmal ex<g ref="char:EOLhyphen"/>preſſions as theſe: Nature is more bountiful to the very beaſts and ſavages then to Man: They can live for five or ten Ages; but as for Man (who is born to greater and nobler ends) is not allowed half their time, though he entreats and ſtrives never ſo vehemently. But to theſe Perſons, we may find, <hi>Se<g ref="char:EOLhyphen"/>neca</hi> does give a ſevere Repri<g ref="char:EOLhyphen"/>mand. How comes it to paſs
+<pb n="119" facs="tcp:103434:69"/> that we looſe and ſquander away ſo much of our time, if we complain, we have not Enough? When we can ſpend whole Days and Months, and Years in doing Evil, or elſe in doing nothing, or in doing things be<g ref="char:EOLhyphen"/>ſides our real buſineſs. Infinite are the hours which we beſtow upon Ceremony and ſervile At<g ref="char:EOLhyphen"/>tendances, in Hopes and Fears; Love and Revenge; Balls and Entertainment, Ambition: Couſt flatteries; Rambling voyages; Impertinent Studies and Unac<g ref="char:EOLhyphen"/>countable Amours. Life is long enough, and the time allotted us, if it were well employ'd, were abundantly enough to anſwer all the Ends and Pur<g ref="char:EOLhyphen"/>poſes of Mankind. But we ne<g ref="char:EOLhyphen"/>ver remember our End, nor ſeek
+<pb n="120" facs="tcp:103434:70"/> the means and ſo it comes to paſs, that when Death makes a viſit to us, we are damped and dejected in our Spirits, and are extremly loth to depart. In a word, we live as if we were never to die, without any Re<g ref="char:EOLhyphen"/>flection upon our Lives, which may be taken from us in a Mo<g ref="char:EOLhyphen"/>ments time. For would we live, as if we were always in expecta<g ref="char:EOLhyphen"/>tion of Death, and ſet our Ac<g ref="char:EOLhyphen"/>compts right, every day that paſſes over our Heads; Would we, I ſay, ſeriouſly conſider, and put in practice <hi>Pythagoras</hi> his excellent Advice to his Diſ<g ref="char:EOLhyphen"/>ciples. Namely, daily to call our ſelves to a ſtrict Account, what we have omitted, or what we have committed, we ſhould never ſet our Affections
+<pb n="121" facs="tcp:103434:70"/> upon this Life, nor be the leaſt a fraid of Death; which would free us from this troubleſom habitation, and invert us with a Bleſſed Eternity.</p>
+         </div>
+         <div type="text">
+            <pb n="122" facs="tcp:103434:71"/>
+            <head>The CONTEMPT OF DEATH.</head>
+            <p>THat all Men muſt die is moſt certain, and that Death which we ſo much dread and decline, is not a Determination, but the Inter<g ref="char:EOLhyphen"/>miſſion of a Life which will re<g ref="char:EOLhyphen"/>turn again is as certain. What is it then, I wonder, that makes men afraid: Oh! 'tis an hard thing to die will ſome ſay: Who can without very great reluctancy enter into an ruk<g ref="char:EOLhyphen"/>newn ſtate, and quit the gau<g ref="char:EOLhyphen"/>dy
+<pb n="123" facs="tcp:103434:71"/> pleaſures of this varniſh'd Earth? Thus do they fear and tremble, and can't endure to think of an after ſeparation; For they repreſent Death to their thoughts as a ſtrange and hideous Monſter, and (with <hi>Ariſtotle</hi>) are willing to conclude it the moſt <hi>Terrible</hi> of all <hi>Ter<g ref="char:EOLhyphen"/>ribles.</hi> But alas! would they conſi<g ref="char:EOLhyphen"/>der, that to die 'tis but a moments work, and that no ſooner is the pure Soul ſtript of its groſs Body, but our Pain and all the Miſeries of this wicked life are at an end.</p>
+            <p>Again, let them remember that the World it ſelf ſtands condemn'd to a Diſſolution, that every man muſt ſubmit to the Prince of Death. He that will not voluntarily follow in
+<pb n="124" facs="tcp:103434:72"/> the great and beaten Road muſt be drawn by force, for our fate is fix'd and the Decree is immutable. And beſides what Reaſon have men to murmur or be afraid of Death, when that which we call <hi>Death</hi> is the Gate and Door of Eternal Life, and who is not willing to exchange a Life of Mourning and Sorrow, for an Eternity of Happineſs? Death in a word is a Debt to <hi>Providence</hi> and Nature, and this Life was never deſign'd but for a Journey to another Place. O! therefore, let us comply with that cheerfully, which Provi<g ref="char:EOLhyphen"/>dence hath made neceſſary.</p>
+            <trailer>The END</trailer>
+            <pb facs="tcp:103434:72"/>
+         </div>
+      </back>
+   </text>
+</TEI>
